@@ -6,11 +6,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-<div>
-<a href="https://github.com/nvpanda">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?NVPanda&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?NVPanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&bg_color=00000000)
+
 
 - 🌱 I’m currently learning ... 
 	
