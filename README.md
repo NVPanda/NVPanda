@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on ...
 
-
-	<img src="https://raw.githubusercontent.com/NVPanda/NVPanda/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
-
+<img src="https://raw.githubusercontent.com/nvpanda/nvpanda/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
 
 - 🌱 I’m currently learning ... 
 	
