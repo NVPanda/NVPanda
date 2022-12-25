@@ -10,6 +10,7 @@ Here are some ideas to get you started:
  	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&theme=tokyonight) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&hide=contribs,prs&theme=onedark) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=darcula)
 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=tokyonight) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=onedark)
 
+![Snake animation](https://github.com/NVPanda/NVPanda/blob/output/github-contribution-grid-snake.svg)
 
 - 🌱 I’m currently learning ... 
 	
