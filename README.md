@@ -7,15 +7,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
  
- 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&theme=tokyonight&height="150em")
+ 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&theme=tokyonight&card_width=300px%card_heigth=300px)
 	
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&hide=contribs,prs&theme=onedark&height="150em")
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&hide=contribs,prs&theme=onedark&card_width=300px%card_heigth=300px)
 	
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=darcula&height="150em")
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=darcula&card_width=300px%card_heigth=300px)
 	
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=tokyonight&height="150em")
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=tokyonight&card_width=300px%card_heigth=300px)
 	
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=onedark&height="150em")
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=onedark&card_width=300px%card_heigth=300px)
 
 <img src="https://raw.githubusercontent.com/NVPanda/NVPanda/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
 
@@ -42,3 +42,7 @@ RPL - RED PANDA LEARNING - Project of Online Platform that teachs technology and
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
