@@ -1,25 +1,20 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&duration=3000&pause=1000&color=531B80&background=FFFFFF00&height=75&lines=Hello+i'm+NVPanda+nice+to+meet+you.;+It's+a+pleasure+to+have+you+reach+here.;If+you+want+to+help+me%2C+please+do+it.)](https://git.io/typing-svg)👋
 
-
-**NVPanda/NVPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 
- 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&theme=tokyonight&card_width=300px%card_heigth=300px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&theme=tokyonight&card_width=300px%card_heigth=300px)
 
 	
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&hide=contribs,prs&theme=onedark&card_width=300px%card_heigth=300px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&hide=contribs,prs&theme=onedark&card_width=300px%card_heigth=300px)
 
 	
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=darcula&card_width=300px%card_heigth=300px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=darcula&card_width=300px%card_heigth=300px)
 	
 	
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=tokyonight&card_width=300px%card_heigth=300px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=tokyonight&card_width=300px%card_heigth=300px)
 
 
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=onedark&card_width=300px%card_heigth=300px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=onedark&card_width=300px%card_heigth=300px)
 
 
 	<img src="https://raw.githubusercontent.com/NVPanda/NVPanda/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
@@ -50,4 +45,4 @@ RPL - RED PANDA LEARNING - Project of Online Platform that teachs technology and
 
 
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/NVPanda/NVPanda/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
