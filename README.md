@@ -2,19 +2,7 @@
 
 - 🔭 I’m currently working on ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&theme=tokyonight&card_width=300px%card_heigth=300px)
 
-	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&hide=contribs,prs&theme=onedark&card_width=300px%card_heigth=300px)
-
-	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=darcula&card_width=300px%card_heigth=300px)
-	
-	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=tokyonight&card_width=300px%card_heigth=300px)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=onedark&card_width=300px%card_heigth=300px)
 
 
 	<img src="https://raw.githubusercontent.com/NVPanda/NVPanda/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
@@ -38,7 +26,25 @@
 - 👯 I’m looking to collaborate on ...
 RPL - RED PANDA LEARNING - Project of Online Platform that teachs technology and Computer Science for everyone.
 - 🤔 I’m looking for help with ...
+
+Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript and CSS.
+
 - 💬 Ask me about ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&theme=tokyonight)
+
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&hide=contribs,prs&theme=onedark)
+
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=darcula)
+	
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=tokyonight)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=onedark)
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
