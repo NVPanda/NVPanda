@@ -1,19 +1,16 @@
 function validatePassword(password) {
-    // Valida a senha aqui
-    if (password.length < 64) {
-      return false;
-    }
-    if (!password.match(/[a-z]/)) {
-      return false;
-    }
-    if (!password.match(/[A-Z]/)) {
-      return false;
-    }
-    if (!password.match(/\d/)) {
-      return false;
-    }
-    return true;
+  // Valida a senha aqui
+  if (password.length < 8) {
+    return false;
   }
+  if (!password.match(/[a-z]/)) {
+    return false;
+  }
+  if (!password.match(/[\u0080-\uFFFF]/)) {
+    return false;
+  }
+  return true;
+}
   
   // Obtém o campo de senha do formulário
   var passwordField = document.getElementById('password');
@@ -29,3 +26,5 @@ function validatePassword(password) {
       // Continua com o envio do formulário ou faz outra coisa aqui
     }
   });
+
+  
