@@ -9,23 +9,30 @@
 
     <!--Usando os estilos da pasta css-->
     <link rel="stylesheet" href="/css/styles.css">
+
 </head>
 <body>
     <h1>Bem-vindo à nossa plataforma de ensino online</h1>
-
+    <!--Área de definição da entrada de dados do site bem como username e password-->
     <form>
         <label for="email">E-mail:</label><br>
         <input type="email" id="email" name="email"><br>
         <label for="senha">Senha:</label><br>
-        <input type="password" id="senha" name="senha"><br><br>
+        <input type="password" id="senha" name="senha" required><br><br>
         <input type="submit" value="Entrar">
     </form>
     
+    <!--Área para definir o Footer-->
     <footer>
     <br>
     <a href="cursos.html">Ver cursos disponíveis</a>
     <br>
     <a href="sobre.html">Sobre a plataforma</a>
     </footer>
+    
+    <!--Áreas para os scripts da page-->
+    <script src="/scripts/responsivity.js"/>
+    <script src="/scripts/encrypt_user_password.js"/>
+    <script src="/scripts/validate.js"/>
 </body>
 </html>
