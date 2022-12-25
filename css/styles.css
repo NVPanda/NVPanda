@@ -1,0 +1,34 @@
+/* Define as cores do panda vermelho */
+:root {
+    --panda-red: #F44336;
+    --panda-white: #FFFFFF;
+    --panda-black: #000000;
+  }
+  
+  /* Aplica as cores do panda vermelho aos elementos da página */
+  body {
+    background-color: var(--panda-white);
+    color: var(--panda-black);
+  }
+  
+  a {
+    color: var(--panda-red);
+  }
+  
+  input[type="submit"] {
+    background-color: var(--panda-red);
+    color: var(--panda-white);
+  }
+  
+  /* Define os estilos para os títulos */
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--panda-red);
+  }
+
+  html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
