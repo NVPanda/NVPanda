@@ -2,10 +2,6 @@
 
 - 🔭 I’m currently working on ...
 
-	<img src="https://raw.githubusercontent.com/NVPanda/NVPanda/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
-
-	![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-	![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 - 🌱 I’m currently learning ... 
 	
@@ -38,3 +34,9 @@ Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - >.< depois de tanto apanhar!
+
+	<img src="https://raw.githubusercontent.com/NVPanda/NVPanda/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
+
+	![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+	![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
