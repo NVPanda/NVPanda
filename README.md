@@ -3,9 +3,8 @@
 - 🔭 I’m currently working on ...
 
 
-
-
 	<img src="https://raw.githubusercontent.com/NVPanda/NVPanda/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
+
 
 - 🌱 I’m currently learning ... 
 	
@@ -30,25 +29,10 @@ RPL - RED PANDA LEARNING - Project of Online Platform that teachs technology and
 Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript and CSS.
 
 - 💬 Ask me about ...
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&theme=tokyonight)
-
-	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&hide=contribs,prs&theme=onedark)
-
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=darcula)
 	
-	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=tokyonight)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=onedark)
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-
-<img src="https://raw.githubusercontent.com/NVPanda/NVPanda/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
