@@ -30,7 +30,7 @@ Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript a
 
 - 💬 Ask me about ...
 	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=darcula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
 	
 
 - 📫 How to reach me: ...
