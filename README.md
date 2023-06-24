@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&duration=3000&pause=1000&color=531B80&background=FFFFFF00&height=75&lines=Hello+i'm+NVPanda+nice+to+meet+you.;+It's+a+pleasure+to+have+you+reach+here.;If+you+want+to+help+me%2C+please+do+it.)](https://git.io/typing-svg)👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&duration=3000&pause=1000&color=531B80&background=FFFFFF00&height=75&lines=Hello+i'm+NVPanda+lucky+to+meet+you.;+It's+a+pleasure+to+have+you+reach+here.;If+you+want+to+help+me%2C+please+do+it.)](https://git.io/typing-svg)👋
 
 ![Snake animation](https://github.com/NVPanda/NVPanda/blob/output/github-contribution-grid-snake.svg)
 
