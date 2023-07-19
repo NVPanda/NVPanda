@@ -9,7 +9,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
 
-	Some solo project using: -> <img src="https://electronjs.org/images/electron-logo.svg" aling="center" width="128" height="128" />
+	Some solo project using: -> <img src="https://electronjs.org/images/electron-logo.svg" aling="bottom" width="128" height="128" />
 
 - 🌱 I’m currently learning ... 
 	
