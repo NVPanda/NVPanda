@@ -10,6 +10,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
 
 	Some solo project using:
+
 	<img src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="128" height="128" />
 
 - 🌱 I’m currently learning ... 
