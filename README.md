@@ -32,6 +32,11 @@ Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript a
 
 - 📫 How to reach me: ...
 
-  I'm currently monitoring a discord community called Disparat Techno - !(https://radiotatuapefm.wixsite.com/disparattechno)
+  I'm currently monitoring a discord community called Disparat Techno - https://radiotatuapefm.wixsite.com/disparattechno
 - 😄 Pronouns: ...
+
+  He / Him / His
+
 - ⚡ Fun fact: ...
+
+  In addition to studying technology and its advances solo, I am also interested in astronomy, space travel and everything that involves James Webb.
