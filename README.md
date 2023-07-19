@@ -26,6 +26,10 @@ RPL - RED PANDA LEARNING - Project of Online Platform that teachs technology and
 Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript and CSS.
 
 - 💬 Ask me about ...
+
+  My first project? R.	Famous "Hello World" in python, html, css and javascript.
+  What i want to do before? R.	I want to create an ERP for the medical accounting area.
+  
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
 	
