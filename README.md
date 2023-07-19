@@ -8,7 +8,8 @@
  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
- 	<img src="https://electronjs.org/images/electron-logo.svg" width="64" height="64" />
+
+	Some solo project using: -> <img src="https://electronjs.org/images/electron-logo.svg" width="128" height="128" />
 
 - 🌱 I’m currently learning ... 
 	
