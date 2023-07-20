@@ -3,7 +3,7 @@
 - 💬 Ask me about ...
 
   My name is Natã Vitor, the community of gamers and friends call me as Panda, NVPanda means Natã Vitor Panda.
-  I am a solo learning programmer that enjoyed python, javascript, html, css, C, C++, C# and Delphi.
+  I am a solo learning programmer that enjoyed python, javascript, html, css, C, C++, C#, Delphi and i love Electronjs.
   I never put a great project here, because i never had the oportunity to work with programming,
   but i love programming, tecnology and all the things behind these terms.
 
