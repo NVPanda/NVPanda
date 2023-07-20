@@ -1,7 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&duration=3000&pause=1000&color=531B80&background=FFFFFF00&height=75&lines=Hello+i'm+NVPanda+lucky+to+meet+you.;+It's+a+pleasure+to+have+you+reach+here.;If+you+want+to+help+me%2C+please+do+it.)](https://git.io/typing-svg)👋
 
-![Snake animation](https://github.com/NVPanda/NVPanda/blob/output/github-contribution-grid-snake.svg)
-
 - 🔭 I’m currently working on ...
 
 	<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/electron_macos_bigsur_icon_190206.png" width="32" height="32" />
@@ -50,3 +48,7 @@ Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript a
 - ⚡ Fun fact: ...
 
   In addition to studying technology and its advances solo, I am also interested in astronomy, space travel and everything that involves James Webb.
+
+  - 🐍 Snake Analysis
+  ![Snake animation](https://github.com/NVPanda/NVPanda/blob/output/github-contribution-grid-snake.svg)
+
