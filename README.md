@@ -2,9 +2,12 @@
 
 - 💬 Ask me about ...
 
-  My first project? R.	Famous "Hello World" in python, html, css and javascript.
-  What i want to do before? R.	I want to create an ERP for the medical accounting area.
-  
+  My name is Natã Vitor, the community of gamers and friends call me as Panda, NVPanda means Natã Vitor Panda.
+  I am a solo learning programmer that enjoyed python, javascript, html, css, C, C++, C# and Delphi.
+  I never put a great project here, because i never had the oportunity to work with programming,
+  but i love programming, tecnology and all the things behind these terms.
+
+  If i can make the difference, please, let me do.
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
 
