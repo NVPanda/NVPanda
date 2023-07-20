@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&duration=3000&pause=1000&color=531B80&background=FFFFFF00&height=75&lines=Hello+i'm+NVPanda+lucky+to+meet+you.;+It's+a+pleasure+to+have+you+reach+here.;If+you+want+to+help+me%2C+please+do+it.)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&duration=6000&pause=2000&color=F70000&background=FFE30000&center=true&vCenter=true&width=450&height=58&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&duration=6000&pause=2000&color=F70000&background=FFE30000&center=true&width=450&height=58&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)👋
 
 - 💬 Ask me about ...
 
