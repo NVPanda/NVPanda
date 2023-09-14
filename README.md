@@ -12,15 +12,6 @@
   If i can make the difference, please, let me do.
 	
 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
-	<!--START_SECTION:waka-->
-	- uses: NVPanda/waka-readme-stats@master
-  with:
-      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      SHOW_OS: "False"
-      SHOW_PROJECTS: "False"
-	<!--END_SECTION:waka-->
-
 
 - 🔭 I’m currently working on ...
 
@@ -34,6 +25,17 @@
 
 
 	<img src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="260" height="64" />
+
+
+ <!--START_SECTION:waka-->
+- uses: NVPanda/waka-readme-stats@master
+  with:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      SHOW_OS: "False"
+      SHOW_PROJECTS: "False"
+<!--END_SECTION:waka-->
+
 
 - 🌱 I’m currently learning ... 
 	
