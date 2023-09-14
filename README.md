@@ -1,11 +1,14 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=6000&pause=2000&color=F70000&background=FFED0E00&multiline=true&width=500&height=75&lines=My+name+is+Nat%C3%A3%2C+but+you+can+call+me+as+Panda;or+NVPanda.%F0%9F%90%BC)](https://git.io/typing-svg)
 
-- 💬 Ask me about ...
+- 💬 About me:
    
   I am a solo learning programmer that enjoyed python, javascript, html, css, C, C++, C#, Delphi and i love Electronjs.
   I never put a great project here, because i never had the oportunity to work with programming,
   but i love programming, tecnology and all the things behind these terms.
 
+- 🐍 Snake Analysis
+  	![Snake animation](https://github.com/NVPanda/NVPanda/blob/output/github-contribution-grid-snake.svg)
+  
   If i can make the difference, please, let me do.
 	
 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
@@ -18,7 +21,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
 
-	Some solo project using:
+	- Some solo project using:
 
 
 	<img src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="260" height="64" />
@@ -50,7 +53,4 @@
 - ⚡ Fun fact: ...
 
 	In addition to studying technology and its advances solo, I am also interested in astronomy, space travel and everything that involves James Webb.
-
-- 🐍 Snake Analysis
-  	![Snake animation](https://github.com/NVPanda/NVPanda/blob/output/github-contribution-grid-snake.svg)
 
