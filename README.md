@@ -61,9 +61,7 @@
 
 ### Badges Area
 
-![Dev.Developer](https://g.dev.com/nvpanda)
-
-![YouTube](https://www.youtube.com/channel/UCjN5rkHKG5dbuAsAZXAFXxg)
+![Static Badge](https://img.shields.io/badge/Working%20in%20progress%20-gold?style=fflat-square&logo=bitcoin)
 
 
 
