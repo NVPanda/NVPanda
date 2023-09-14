@@ -12,6 +12,8 @@
   If i can make the difference, please, let me do.
 	
 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
+	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=NVPandaSI&theme=monokai&hide_title=true&layout=default" />
+
 
 - 🔭 I’m currently working on ...
 
@@ -53,4 +55,12 @@
 - ⚡ Fun fact: ...
 
 	In addition to studying technology and its advances solo, I am also interested in astronomy, space travel and everything that involves James Webb.
+
+### Badges Area
+
+[Dev.Developer](https://g.dev.com/nvpanda)
+
+![YouTube](https://www.youtube.com/channel/UCjN5rkHKG5dbuAsAZXAFXxg)
+
+
 
