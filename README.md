@@ -12,7 +12,7 @@
   If i can make the difference, please, let me do.
 	
 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
-	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=NVPandaSI&theme=monokai&hide_title=true&layout=default" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=https://github.com/NVPandaSI&theme=monokai&hide_title=true&layout=default" />
 
 
 - 🔭 I’m currently working on ...
