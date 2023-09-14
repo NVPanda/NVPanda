@@ -12,7 +12,14 @@
   If i can make the difference, please, let me do.
 	
 	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
-	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=https://github.com/NVPandaSI&theme=monokai&hide_title=true&layout=default" />
+	<!--START_SECTION:waka-->
+	- uses: NVPanda/waka-readme-stats@master
+  with:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      SHOW_OS: "False"
+      SHOW_PROJECTS: "False"
+	<!--END_SECTION:waka-->
 
 
 - 🔭 I’m currently working on ...
