@@ -61,7 +61,7 @@
 
 ### Badges Area
 
-[Dev.Developer](https://g.dev.com/nvpanda)
+![Dev.Developer](https://g.dev.com/nvpanda)
 
 ![YouTube](https://www.youtube.com/channel/UCjN5rkHKG5dbuAsAZXAFXxg)
 
