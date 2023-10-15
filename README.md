@@ -30,6 +30,7 @@
 
 
 <!--START_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NVPanda)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
 
 
