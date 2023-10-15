@@ -1,5 +1,8 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=6000&pause=2000&color=F70000&background=FFED0E00&multiline=true&width=500&height=75&lines=My+name+is+Nat%C3%A3%2C+but+you+can+call+me+as+Panda;or+NVPanda.%F0%9F%90%BC)](https://git.io/typing-svg)
 
+![octocat-1697408697410](https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875)
+
+
 - 💬 About me:
    
   I am a solo learning programmer that enjoyed python, javascript, html, css, C, C++, C#, Delphi and i love Electronjs.
