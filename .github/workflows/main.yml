@@ -16,11 +16,9 @@
     outputs: |
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      dist/ocean.gif?color_snake=red&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-- uses: Wakatime
-
-name: Waka Readme
+name: WakaTime Readme
 
 on:
   # for manual workflow trigger
@@ -31,7 +29,7 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: WakaTimeReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
