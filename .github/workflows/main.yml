@@ -18,13 +18,17 @@
       dist/github-snake-dark.svg?palette=github-dark
       dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
+- uses: Wakatime
+
 name: Waka Readme
 
 on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+  # for manual workflow trigger
   workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
+
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -54,6 +58,6 @@ jobs:
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: YOUR_NAME # optional
+          AUTHOR_NAME: NVPANDA # optional
           AUTHOR_EMAIL: YOUR@EMAIL.com # optional
           # you can populate email-id with secretes instead
