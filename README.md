@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=6000&pause=2000&color=F70000&background=FFED0E00&multiline=true&width=500&height=75&lines=My+name+is+Nat%C3%A3%2C+but+you+can+call+me+as+Panda;or+NVPanda.%F0%9F%90%BC)](https://git.io/typing-svg)
 
-<img src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="30%" height="10%">
+<img src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="10%" height="10%">
 
 - 💬 About me:
    
