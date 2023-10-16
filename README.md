@@ -73,7 +73,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <br style="border: 0";>
-      <img width="400" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="25%" height="25%">/>
+      <img width="400" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="25%" height="25%"/>
     </br>
     <td style="border: 0";>
         🌙
