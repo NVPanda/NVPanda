@@ -29,7 +29,7 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
 
-	- Some solo project using:
+- Some solo project using:
 
 	<img  align="center" src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="100" height="54" />
 </div>
