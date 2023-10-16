@@ -76,11 +76,7 @@
 <!--END_SECTION:waka-->
 
 <td style="border: 0";>
-        🌙 At night studying <br>
-        🐦 Flying around with new technologies <br>
-        📺 Watch crash courses for being stronger and wise <br>
-        📷 Toggle captures when finished as sucessful <br>
-        📬 Send some e-mails when someone needing my help <br>
+        🌙 At night studying<tb>🐦 Flying around with new technologies<tb>📺 Watch crash courses for being stronger and wise<tb>📷 Toggle captures when finished as sucessful<tb>📬 Send some e-mails when someone needing my help <br>
     </td>
   </tr>
 </table>
