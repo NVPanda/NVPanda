@@ -1,7 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=6000&pause=2000&color=F70000&background=FFED0E00&multiline=true&width=500&height=75&lines=My+name+is+Nat%C3%A3%2C+but+you+can+call+me+as+Panda;or+NVPanda.%F0%9F%90%BC)](https://git.io/typing-svg)
 
-<img src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="25%" height="25%">
-
 - 💬 About me:
    
   I am a solo learning programmer that enjoyed python, javascript, html, css, C, C++, C#, Delphi and i love Electronjs.
@@ -62,9 +60,39 @@
 
 	In addition to studying technology and its advances solo, I am also interested in astronomy, space travel and everything that involves James Webb.
 
+<!-- Adicionando conteúdos -->
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/NVPanda)](https://www.facebook.com/NV.Panda.Pandoala/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nv_pandoala)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://br.linkedin.com/in/nat%C3%A3-vitor-vaguel-reis-nvpanda-6140564a)
+[![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)]
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Chainlenger2)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NV_Panda)
+
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <img width="400" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="25%" height="25%">/>
+    </td>
+    <td style="border: 0";>
+        🌙
+        🐦
+        📺
+        📷
+        📬
+    </td>
+  </tr>
+</table>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvpanda&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nvpanda&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nvpanda&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvpanda&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=nvpanda&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
+
+
 ### Badges Area
 
 ![Static Badge](https://img.shields.io/badge/Working%20in%20progress%20-gold?style=fflat-square&logo=bitcoin)
-
-
-
