@@ -1,16 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=6000&pause=2000&color=F70000&background=FFED0E00&multiline=true&width=500&height=75&lines=My+name+is+Nat%C3%A3%2C+but+you+can+call+me+as+Panda;or+NVPanda.%F0%9F%90%BC)](https://git.io/typing-svg)
 
+<div align="center">
 - Coding Status first impression -
-
+</div>
 <div align="center">
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
 
 </div>
 
-<div align="center"> 
-	
+<div> 
+<div align="center">
 - 💬 About me - 
+</div>
+	
 I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/badge/python-3670A0?style=fflat-square&logo=python&logoColor=ffdd54), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fflat-square&logo=javascript&logoColor=%23F7DF1E), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=fflat-square&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=fflat-square&logo=css3&logoColor=white), ![C](https://img.shields.io/badge/c-%2300599C.svg?style=fflat-square&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=fflat-square&logo=c%2B%2B&logoColor=white), ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=fflat-square&logo=c-sharp&logoColor=white), Delphi  and i love Electronjs.
 
   I never put a great project here, because i never had the oportunity to work with programming,
