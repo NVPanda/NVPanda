@@ -13,8 +13,11 @@
 <div align="center">
 - 💬 About me - 
 </div>
-	
+<br>
+
 I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/badge/python-3670A0?style=fflat-square&logo=python&logoColor=ffdd54), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fflat-square&logo=javascript&logoColor=%23F7DF1E), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=fflat-square&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=fflat-square&logo=css3&logoColor=white), ![C](https://img.shields.io/badge/c-%2300599C.svg?style=fflat-square&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=fflat-square&logo=c%2B%2B&logoColor=white), ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=fflat-square&logo=c-sharp&logoColor=white), Delphi  and i love Electronjs.
+
+<br><br>
 
   I never put a great project here, because i never had the oportunity to work with programming,
   but i love programming, tecnology and all the things behind these terms.
@@ -22,24 +25,24 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
   If i can make the difference, please, let me do.
 </div>
 
+<div>
 <div align="center">
-	
-- 🔭 I’m currently working on ...
-
+- 🔭 I’m currently working on -
+</div>
 	<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/electron_macos_bigsur_icon_190206.png" width="32" height="32" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="32" height="32" />
  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
-
-- Some solo project using:
-
+<br><br>
+<div>
+- Some solo project using -
 	<img  align="center" src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="200" height="74" />
 </div>
-
+<br>
 <div align="center">
  - 🌱 I’m currently learning -
-	
+</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" height="24" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" height="24" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24" height="24" />
@@ -48,22 +51,23 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="24" height="24" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="24" height="24" />
 </div>
+<br>
 <div align="center">  
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on -
 	RPL - RED PANDA LEARNING - Project of Online Platform that teachs technology and Computer Science for everyone.
-</div>
+</div><br>
 <div align="center"> 
 - 🤔 I’m looking for help with ...
 
 Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript and CSS.
-</div>
+</div><br>
+<div>
 <div align="center"> 
-	
-- 📫 How to reach me: ...
-
+- 📫 How to reach me -
+</div>
 I'm currently monitoring a discord community called Disparat Techno - https://radiotatuapefm.wixsite.com/disparattechno
 </div>
-
+<br>
 <div align="center"> 
 	
 - 😄 Pronouns: ...
@@ -73,7 +77,7 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 - ⚡ Fun fact: ...
 
 	In addition to studying technology and its advances solo, I am also interested in astronomy, space travel and everything that involves James Webb.
-</div>
+</div><br>
 
 <!-- Adicionando conteúdos -->
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=fflat-square&logo=Facebook&logoColor=white&link=https://github.com/NVPanda)](https://www.facebook.com/NV.Panda.Pandoala/)
