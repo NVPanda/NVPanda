@@ -100,8 +100,11 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 | :-: | :-: |
 
 <div align="center"> - 🐍 Snake Analysis - </div>
-<div align="center">![Snake animation](https://github.com/NVPanda/NVPanda/blob/output/github-contribution-grid-snake.svg)</div>
-  
+<div align="center">
+
+![Snake animation](https://github.com/NVPanda/NVPanda/blob/output/github-contribution-grid-snake.svg)
+</div>
+<br><br>  
 
 <div align="center">- Enterprises and Programs -</div>
 
