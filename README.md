@@ -195,7 +195,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=fflat-square&logo=notion&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=fflat-square&logo=powerbi&logoColor=black) <br>
 
-### Others
+### Search Engines
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=fflat-square&logo=DuckDuckGo&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=fflat-square&logo=google&logoColor=white)
 
