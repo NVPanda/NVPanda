@@ -31,7 +31,7 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 
 - Some solo project using:
 
-	<img  align="center" src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="100" height="54" />
+	<img  align="center" src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="200" height="64" />
 </div>
 
 <div align="center">
