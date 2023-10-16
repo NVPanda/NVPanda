@@ -248,6 +248,4 @@
 <center>- Job -</center>
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=fflat-square&logo=Freelancer&logoColor=white) 
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=fflat-square&logo=HackerRank&logoColor=white) <br>
-
-<!-- <!--START_SECTION:waka--> [![NVPanda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nvpanda)](https://github.com/NVPanda/github-readme-stats) <!--END_SECTION:waka--> -->
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=fflat-square&logo=HackerRank&logoColor=white)
