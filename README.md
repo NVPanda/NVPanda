@@ -2,11 +2,11 @@
 
 <center> - Coding Status first impression - </center>
 
-<center>
+<div align="center">
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
 
-</center>
+</div>
 <center> - 💬 About me - </center>
    
   I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/badge/python-3670A0?style=fflat-square&logo=python&logoColor=ffdd54), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fflat-square&logo=javascript&logoColor=%23F7DF1E), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=fflat-square&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=fflat-square&logo=css3&logoColor=white), ![C](https://img.shields.io/badge/c-%2300599C.svg?style=fflat-square&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=fflat-square&logo=c%2B%2B&logoColor=white), ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=fflat-square&logo=c-sharp&logoColor=white), Delphi  and i love Electronjs.
