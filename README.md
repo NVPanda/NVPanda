@@ -1,5 +1,9 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=6000&pause=2000&color=F70000&background=FFED0E00&multiline=true&width=500&height=75&lines=My+name+is+Nat%C3%A3%2C+but+you+can+call+me+as+Panda;or+NVPanda.%F0%9F%90%BC)](https://git.io/typing-svg)
 
+- Coding Status first impression
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
+
 - 💬 About me:
    
   I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/badge/python-3670A0?style=fflat-square&logo=python&logoColor=ffdd54), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fflat-square&logo=javascript&logoColor=%23F7DF1E), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=fflat-square&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=fflat-square&logo=css3&logoColor=white), ![C](https://img.shields.io/badge/c-%2300599C.svg?style=fflat-square&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=fflat-square&logo=c%2B%2B&logoColor=white), ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=fflat-square&logo=c-sharp&logoColor=white), Delphi  and i love Electronjs.
@@ -10,8 +14,6 @@
   	![Snake animation](https://github.com/NVPanda/NVPanda/blob/output/github-contribution-grid-snake.svg)
   
   If i can make the difference, please, let me do.
-	
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
 
 - 🔭 I’m currently working on ...
 
@@ -23,9 +25,7 @@
 
 	- Some solo project using:
 
-
 	<img src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="260" height="64" />
-
 
 - 🌱 I’m currently learning ... 
 	
@@ -68,7 +68,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <br style="border: 0";>
-      <img width="400" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="25%" height="25%"/>
+      <img width="400" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="15%" height="15%"/>
     </br>
 	<td style="border: 0";>
         🌙 At night studying<td>🐦 Flying around with new technologies</td><td>📺 Watch crash courses for being stronger and wise</td><td>📷 Toggle captures when finished as sucessful</td><td>📬 Send some e-mails when someone needing my help</td>
@@ -77,7 +77,7 @@
 </table>
 
  <!--START_SECTION:waka-->
-[![NVPanda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NVPanda)](https://github.com/NVPanda/github-readme-stats)
+[![NVPanda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nvpanda)](https://github.com/NVPanda/github-readme-stats)
 <!--END_SECTION:waka-->
 
 
