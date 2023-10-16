@@ -22,7 +22,7 @@
 
 	- Some solo project using:
 
-	<img src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="220" height="54" />
+	<img src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="100" height="54" />
 
 - 🌱 I’m currently learning ... 
 	
