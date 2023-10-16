@@ -36,7 +36,9 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
 <br><br>
 <div>
+<div align="center">
 - Some solo project using -
+</div>
 	<img  align="center" src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="200" height="74" />
 </div>
 <br>
