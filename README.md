@@ -1,13 +1,13 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=6000&pause=2000&color=F70000&background=FFED0E00&multiline=true&width=500&height=75&lines=My+name+is+Nat%C3%A3%2C+but+you+can+call+me+as+Panda;or+NVPanda.%F0%9F%90%BC)](https://git.io/typing-svg)
 
-<div> - Coding Status first impression - </div>
+<div align="center"> - Coding Status first impression - </div>
 
 <div align="center">
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
 
 </div>
-<div> - 💬 About me - </div>
+<div align="center"> - 💬 About me - </div>
    
   I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/badge/python-3670A0?style=fflat-square&logo=python&logoColor=ffdd54), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fflat-square&logo=javascript&logoColor=%23F7DF1E), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=fflat-square&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=fflat-square&logo=css3&logoColor=white), ![C](https://img.shields.io/badge/c-%2300599C.svg?style=fflat-square&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=fflat-square&logo=c%2B%2B&logoColor=white), ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=fflat-square&logo=c-sharp&logoColor=white), Delphi  and i love Electronjs.
   I never put a great project here, because i never had the oportunity to work with programming,
@@ -82,11 +82,11 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvpanda&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=nvpanda&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
-<div> - 🐍 Snake Analysis - </div>
-<div>![Snake animation](https://github.com/NVPanda/NVPanda/blob/output/github-contribution-grid-snake.svg)</div>
+<div align="center"> - 🐍 Snake Analysis - </div>
+<div align="center">![Snake animation](https://github.com/NVPanda/NVPanda/blob/output/github-contribution-grid-snake.svg)</div>
   
 
-<div>- Enterprises and Programs -</div>
+<div align="center">- Enterprises and Programs -</div>
 
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=fflat-square&logo=binance&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=fflat-square&logo=openai&logoColor=black)
@@ -116,7 +116,7 @@
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=fflat-square&logo=sketch&logoColor=black)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=fflat-square&logo=HackerRank&logoColor=white) <br>
 
-<div>- Guides for Learn -</div>
+<div align="center">- Guides for Learn -</div>
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=fflat-square&logo=stack-overflow&logoColor=white)
 ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=fflat-square&logo=XDA-Developers&logoColor=white) <br>
@@ -142,7 +142,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=fflat-square&logo=WordPress&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=fflat-square&logo=yarn&logoColor=white) <br>
 
-<div> - Console and Gaming Enterprises that i follow my entire life - </div>
+<div align="center"> - Console and Gaming Enterprises that i follow my entire life - </div>
 
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=fflat-square&logo=battle.net&logoColor=white)
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=fflat-square&logo=ea&logoColor=white)
@@ -161,7 +161,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=fflat-square&logo=heroku&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=fflat-square&logo=oracle&logoColor=white) <br>
 
-<div>- Products -</div>
+<div align="center">- Products -</div>
 
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=fflat-square&logo=atom&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=fflat-square&logo=docker&logoColor=white)
@@ -177,7 +177,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=fflat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=fflat-square&logo=visual-studio&logoColor=white) <br>
 
-<div>- Operating Systems -</div>
+<div align="center">- Operating Systems -</div>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=fflat-square&logo=android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=fflat-square&logo=debian&logoColor=white)
@@ -190,16 +190,16 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=fflat-square&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=fflat-square&logo=Windows%2011&logoColor=white) <br>
 
-<div>- Builders -</div>
+<div align="center">- Builders -</div>
 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=fflat-square&logo=cmake&logoColor=white)
 
-<div>- Search Engines -</div>
+<div align="center">- Search Engines -</div>
 
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=fflat-square&logo=DuckDuckGo&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=fflat-square&logo=google&logoColor=white)
 
-<div>- Social -</div>
+<div align="center">- Social -</div>
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=fflat-square&logo=discord&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=fflat-square&logo=Facebook&logoColor=white)
@@ -222,7 +222,7 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=fflat-square&logo=whatsapp&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=fflat-square&logo=YouTube&logoColor=white) <br>
 
-<div>- Smartphones -</div>
+<div align="center">- Smartphones -</div>
 
 ![LG](https://img.shields.io/badge/lg-a50034.svg?style=fflat-square&logo=lg&logoColor=white)
 ![Motorola](https://img.shields.io/badge/Motorola-%23E1140A.svg?style=fflat-square&logo=motorola&logoColor=white)
@@ -230,22 +230,22 @@
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=fflat-square&logo=samsung&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=fflat-square&logo=xiaomi&logoColor=white) <br>
 
-<div>- Stores -</div>
+<div align="center">- Stores -</div>
 
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=fflat-square&logo=f-droid&logoColor=white)
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=fflat-square&logo=google-play&logoColor=white) <br>
 
-<div>- Streaming -</div>
+<div align="center">- Streaming -</div>
 
 ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=fflat-square&logo=amazonprime&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=fflat-square&logo=twitch&logoColor=white) <br>
 
-<div>- Version Control -</div>
+<div align="center">- Version Control -</div>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=fflat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=fflat-square&logo=github&logoColor=white) <br>
 
-<div>- Job -</div>
+<div align="center">- Job -</div>
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=fflat-square&logo=Freelancer&logoColor=white) 
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=fflat-square&logo=HackerRank&logoColor=white)
