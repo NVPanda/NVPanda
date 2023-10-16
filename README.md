@@ -27,11 +27,6 @@
 	<img src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="260" height="64" />
 
 
-<!--START_SECTION:waka-->
-[![NVPanda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NVPanda)](https://github.com/anuraghazra/github-readme-stats)
-<!--END_SECTION:waka-->
-
-
 - 🌱 I’m currently learning ... 
 	
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" height="32" />
@@ -75,7 +70,12 @@
     <br style="border: 0";>
       <img width="400" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="25%" height="25%"/>
     </br>
-    <td style="border: 0";>
+
+ <!--START_SECTION:waka-->
+[![NVPanda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NVPanda)](https://github.com/anuraghazra/github-readme-stats)
+<!--END_SECTION:waka-->
+
+<td style="border: 0";>
         🌙
         🐦
         📺
