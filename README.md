@@ -76,11 +76,11 @@
 <!--END_SECTION:waka-->
 
 <td style="border: 0";>
-        🌙
-        🐦
-        📺
-        📷
-        📬
+        🌙 At night studying <br>
+        🐦 Flying around with new technologies <br>
+        📺 Watch crash courses for being stronger and wise <br>
+        📷 Toggle captures when finished as sucessful <br>
+        📬 Send some e-mails when someone needing my help <br>
     </td>
   </tr>
 </table>
@@ -96,3 +96,5 @@
 ### Badges Area
 
 ![Static Badge](https://img.shields.io/badge/Working%20in%20progress%20-gold?style=fflat-square&logo=bitcoin)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=black)
+![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=black)
