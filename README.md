@@ -106,7 +106,7 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 </div>
 <br><br>  
 
-<div align="center">- Enterprises and Programs -</div>
+<div align="center">- Enterprises and Programs -
 
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=fflat-square&logo=binance&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=fflat-square&logo=openai&logoColor=black)
@@ -136,7 +136,7 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=fflat-square&logo=sketch&logoColor=black)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=fflat-square&logo=HackerRank&logoColor=white) <br>
 
-<div align="center">- Guides for Learn -</div>
+- Guides for Learn -
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=fflat-square&logo=stack-overflow&logoColor=white)
 ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=fflat-square&logo=XDA-Developers&logoColor=white) <br>
@@ -162,7 +162,7 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=fflat-square&logo=WordPress&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=fflat-square&logo=yarn&logoColor=white) <br>
 
-<div align="center"> - Console and Gaming Enterprises that i follow my entire life - </div>
+- Console and Gaming Enterprises that i follow my entire life -
 
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=fflat-square&logo=battle.net&logoColor=white)
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=fflat-square&logo=ea&logoColor=white)
@@ -181,7 +181,7 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=fflat-square&logo=heroku&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=fflat-square&logo=oracle&logoColor=white) <br>
 
-<div align="center">- Products -</div>
+- Products -
 
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=fflat-square&logo=atom&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=fflat-square&logo=docker&logoColor=white)
@@ -197,7 +197,7 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=fflat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=fflat-square&logo=visual-studio&logoColor=white) <br>
 
-<div align="center">- Operating Systems -</div>
+- Operating Systems -
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=fflat-square&logo=android&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=fflat-square&logo=debian&logoColor=white)
@@ -210,16 +210,16 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=fflat-square&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=fflat-square&logo=Windows%2011&logoColor=white) <br>
 
-<div align="center">- Builders -</div>
+- Builders -
 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=fflat-square&logo=cmake&logoColor=white)
 
-<div align="center">- Search Engines -</div>
+- Search Engines -
 
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=fflat-square&logo=DuckDuckGo&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=fflat-square&logo=google&logoColor=white)
 
-<div align="center">- Social -</div>
+- Social -
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=fflat-square&logo=discord&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=fflat-square&logo=Facebook&logoColor=white)
@@ -242,7 +242,7 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=fflat-square&logo=whatsapp&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=fflat-square&logo=YouTube&logoColor=white) <br>
 
-<div align="center">- Smartphones -</div>
+- Smartphones -
 
 ![LG](https://img.shields.io/badge/lg-a50034.svg?style=fflat-square&logo=lg&logoColor=white)
 ![Motorola](https://img.shields.io/badge/Motorola-%23E1140A.svg?style=fflat-square&logo=motorola&logoColor=white)
@@ -250,22 +250,24 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=fflat-square&logo=samsung&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=fflat-square&logo=xiaomi&logoColor=white) <br>
 
-<div align="center">- Stores -</div>
+- Stores -
 
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=fflat-square&logo=f-droid&logoColor=white)
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=fflat-square&logo=google-play&logoColor=white) <br>
 
-<div align="center">- Streaming -</div>
+- Streaming -
 
 ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=fflat-square&logo=amazonprime&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=fflat-square&logo=twitch&logoColor=white) <br>
 
-<div align="center">- Version Control -</div>
+- Version Control -
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=fflat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=fflat-square&logo=github&logoColor=white) <br>
 
-<div align="center">- Job -</div>
+- Job -
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=fflat-square&logo=Freelancer&logoColor=white) 
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=fflat-square&logo=HackerRank&logoColor=white)
+
+</div> 
