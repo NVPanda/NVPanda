@@ -1,17 +1,21 @@
+# Markdown heading
+
+<H1>Welcome to NVPanda's Bio Page</H1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=6000&pause=2000&color=F70000&background=FFED0E00&multiline=true&width=500&height=75&lines=My+name+is+Nat%C3%A3%2C+but+you+can+call+me+as+Panda;or+NVPanda.%F0%9F%90%BC)](https://git.io/typing-svg)
 
 <div align="center">
 - Coding Status first impression -
 </div>
 <div align="center">
-	
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
 
 </div>
 
-<div> 
+<div>
 <div align="center">
-- 💬 About me - 
+- 💬 About me -
 </div>
 <br>
 
@@ -29,17 +33,17 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 <div align="center">
 - 🔭 I’m currently working on -
 </div>
-	<img align="center" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/electron_macos_bigsur_icon_190206.png" width="32" height="32" />
-	<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="32" height="32" />
- 	<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
-	<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />
-	<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
+ <img align="center" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/electron_macos_bigsur_icon_190206.png" width="24" height="24" />
+ <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="24" height="24" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="24" height="24" />
+ <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" />
+ <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="24" height="24" />
 <br><br>
 <div>
 <div align="center">
 - Some solo project using -
 </div>
-	<img  align="center" src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="200" height="74" />
+ <img  align="center" src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="200" height="74" />
 </div>
 <br>
 <div align="center">
@@ -54,31 +58,36 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="24" height="24" />
 </div>
 <br>
+
 <div align="center">  
 - 👯 I’m looking to collaborate on -
-	RPL - RED PANDA LEARNING - Project of Online Platform that teachs technology and Computer Science for everyone.
+ RPL - RED PANDA LEARNING - Project of Online Platform that teachs technology and Computer Science for everyone.
 </div><br>
-<div align="center"> 
+
+<div align="center">
 - 🤔 I’m looking for help with ...
 
 Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript and CSS.
 </div><br>
+
 <div>
-<div align="center"> 
+<div align="center">
 - 📫 How to reach me -
 </div>
 I'm currently monitoring a discord community called Disparat Techno - https://radiotatuapefm.wixsite.com/disparattechno
 </div>
 <br>
-<div align="center"> 
-	
+
+<div align="center">
+
 - 😄 Pronouns: ...
 
-  	He / Him / His
+   He / Him / His
 
 - ⚡ Fun fact: ...
 
-	In addition to studying technology and its advances solo, I am also interested in astronomy, space travel and everything that involves James Webb.
+ In addition to studying technology and its advances solo, I am also interested in astronomy, space travel and everything that involves James Webb.
+
 </div><br>
 
 <!-- Adicionando conteúdos -->
@@ -90,13 +99,12 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=fflat-square&logo=discord&logoColor=white)]()
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=fflat-square&logo=telegram&logoColor=white)](https://t.me/NV_Panda)
 
-
 <table border="1" cellspacing="3" cellpadding="10">
   <tr>
     <br style="border: 0";>
       <img width="400" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="15%" height="15%"/>
     </br>
-	<td style="border: 0";>
+ <td style="border: 0";>
         🌙 At night studying<td>🐦 Flying around with new technologies</td><td>📺 Watch crash courses for being stronger and wise</td><td>📷 Toggle captures when finished as sucessful</td><td>📬 Send some e-mails when someone needing my help</td>
     </td>
   </tr>
@@ -109,6 +117,7 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 | :-: | :-: |
 
 <div align="center"> - 🐍 Snake Analysis - </div>
+
 <div align="center">
 
 ![Snake animation](https://github.com/NVPanda/NVPanda/blob/output/github-contribution-grid-snake.svg)
@@ -121,22 +130,12 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=fflat-square&logo=openai&logoColor=black)
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=fflat-square&logo=hyperledger&logoColor=black)
 ![Wix](https://img.shields.io/badge/wix-000?style=fflat-square&logo=wix&logoColor=black)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=fflat-square&logo=Brave&logoColor=black)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=fflat-square&logo=Firefox-Browser&logoColor=black)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=fflat-square&logo=GoogleChrome&logoColor=black)
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=fflat-square&logo=Opera&logoColor=black)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=fflat-square&logo=Tor-Browser&logoColor=black)
-![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=fflat-square&logo=Vivaldi&logoColor=black) <br>
 ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=fflat-square&logo=Mega&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=fflat-square&logo=Microsoft%20OneDrive&logoColor=0078D4)
 ![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?style=fflat-square&logo=proton%20drive&logoColor=white) <br>
 ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=fflat-square&logo=dogecoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=fflat-square&logo=Ethereum&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Working%20in%20progress%20-gold?style=fflat-square&logo=bitcoin) <br>
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=fflat-square&logo=Firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=fflat-square&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=fflat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=fflat-square&logo=sqlite&logoColor=white) <br>
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=fflat-square&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=fflat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=fflat-square&logo=blender&logoColor=white)
@@ -190,6 +189,13 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=fflat-square&logo=heroku&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=fflat-square&logo=oracle&logoColor=white) <br>
 
+- Databases -
+
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=fflat-square&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=fflat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=fflat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=fflat-square&logo=sqlite&logoColor=white) <br>
+
 - Products -
 
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=fflat-square&logo=atom&logoColor=white)
@@ -218,6 +224,15 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=fflat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=fflat-square&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=fflat-square&logo=Windows%2011&logoColor=white) <br>
+
+- Web Browsers
+
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=fflat-square&logo=Brave&logoColor=black)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=fflat-square&logo=Firefox-Browser&logoColor=black)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=fflat-square&logo=GoogleChrome&logoColor=black)
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=fflat-square&logo=Opera&logoColor=black)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=fflat-square&logo=Tor-Browser&logoColor=black)
+![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=fflat-square&logo=Vivaldi&logoColor=black) <br>
 
 - Builders -
 
@@ -276,7 +291,7 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 
 - Job -
 
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=fflat-square&logo=Freelancer&logoColor=white) 
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=fflat-square&logo=Freelancer&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=fflat-square&logo=HackerRank&logoColor=white)
 
-</div> 
+</div>
