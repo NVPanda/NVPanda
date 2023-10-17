@@ -43,8 +43,10 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 <div align="center">
 - Some solo project using -
 </div>
- <img  align="center" src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="200" height="74" />
-</div>
+	</div>
+<br>
+<div align="center"><img src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="200" height="74" /></div>
+
 <br>
 <div align="center">
  - 🌱 I’m currently learning -
