@@ -27,6 +27,8 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
   If i can make the difference, please, let me do.
 </div>
 
+<br>
+
 <div>
 <div align="center">
 - 🔭 I’m currently working on -
@@ -56,6 +58,8 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="24" height="24" />
 </div>
 <br>
+
+
 <div>
 <div align="center">  
 - 👯 I’m looking to collaborate on -
@@ -68,53 +72,35 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 - 🤔 I’m looking for help with ...
 
 Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript and CSS.
-</div><br>
+</div>
 </div>
 
-<div>
-<div align="center">  
-- 👯 I’m looking to collaborate on -
-	RPL - RED PANDA LEARNING - Project of Online Platform that teachs technology and Computer Science for everyone.
-</div>
-</div>
 <br>
-
-<div>
-<div align="center"> 
-- 🤔 I’m looking for help with ...
-
-Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript and CSS.
-</div> </div>
-<br>
-</div>
 
 <div>
 <div align="center">
 - 📫 How to reach me -
 </div>
-I'm currently monitoring a discord community called Disparat Techno - https://radiotatuapefm.wixsite.com/disparattechno
+<p>I'm currently monitoring a discord community called Disparat Techno - <a>https://radiotatuapefm.wixsite.com/disparattechno</a></p>
 </div>
+
 <br>
 
 <div>
 <div align="center">
 
-- 😄 Pronouns: ...
+- 😄 Pronouns -
 
    He / Him / His
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact -
 
  In addition to studying technology and its advances solo, I am also interested in astronomy, space travel and everything that involves James Webb.
 
-</div><br>
+</div>
 </div>
 
-<div>	
-<div align="center">- 😄 Pronouns -</div>
-  	He / Him / His
-
-</div>
+<br>
 
 <div>
 <div align="center">- ⚡ Fun fact -</div>
@@ -132,10 +118,12 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=fflat-square&logo=discord&logoColor=white)]()
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=fflat-square&logo=telegram&logoColor=white)](https://t.me/NV_Panda)
 
+<br>
+
 <table border="1" cellspacing="3" cellpadding="10">
   <tr>
     <br style="border: 0";>
-      <img width="400" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="15%" height="15%"/>
+      <img width="400" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="10%" height="10%"/>
     </br>
  <td style="border: 0";>
         🌙 At night studying<td>🐦 Flying around with new technologies</td><td>📺 Watch crash courses for being stronger and wise</td><td>📷 Toggle captures when finished as sucessful</td><td>📬 Send some e-mails when someone needing my help</td>
@@ -143,18 +131,25 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
   </tr>
 </table>
 
+<br>
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvpanda&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nvpanda&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nvpanda&theme=nord_dark) |
 | :-: | :-: | :-: |
 
+<br>
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvpanda&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=nvpanda&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
+
+<br>
 
 <div>
 <div align="center"> - 🐍 Snake Analysis - </div>
 
 <div align="center">
-
+	
 ![Snake animation](https://github.com/NVPanda/NVPanda/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 <br><br>
 </div>
@@ -225,8 +220,8 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=fflat-square&logo=heroku&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=fflat-square&logo=oracle&logoColor=white) <br>
 
-<div align="center">
-- Databases -
+<div>
+<div align="center">- Databases -</div>
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=fflat-square&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=fflat-square&logo=mysql&logoColor=white)
@@ -236,8 +231,6 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 </div>
 
 <div>
-- Products -
-
 <div align="center">- Products -</div>
 
 
@@ -295,6 +288,9 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=fflat-square&logo=DuckDuckGo&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=fflat-square&logo=google&logoColor=white)
 
+<br>
+
+<div>
 <div align="center">- Social -</div>
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=fflat-square&logo=discord&logoColor=white)
@@ -318,6 +314,9 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=fflat-square&logo=whatsapp&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=fflat-square&logo=YouTube&logoColor=white) <br>
 
+<br>
+
+<div>
 <div align="center">- Smartphones -</div>
 
 ![LG](https://img.shields.io/badge/lg-a50034.svg?style=fflat-square&logo=lg&logoColor=white)
@@ -326,25 +325,44 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=fflat-square&logo=samsung&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=fflat-square&logo=xiaomi&logoColor=white) <br>
 
+<br>
+
+<div>
 <div align="center">- Stores -</div>
 
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=fflat-square&logo=f-droid&logoColor=white)
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=fflat-square&logo=google-play&logoColor=white) <br>
 
+<br>
+
+<div>
 <div align="center">- Streaming -</div>
 
 ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=fflat-square&logo=amazonprime&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=fflat-square&logo=twitch&logoColor=white) <br>
 
+<br>
+
+<div>
 <div align="center">- Version Control -</div>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=fflat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=fflat-square&logo=github&logoColor=white) <br>
 
+<br>
+
+<div>
 <div align="center">- Job -</div>
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=fflat-square&logo=Freelancer&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=fflat-square&logo=HackerRank&logoColor=white)
 
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
