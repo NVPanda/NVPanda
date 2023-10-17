@@ -1,4 +1,4 @@
-<H1>Welcome to NVPanda's Bio Page</H1>
+<H1 align="center">Welcome to NVPanda's Bio Page</H1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=6000&pause=2000&color=F70000&background=FFED0E00&multiline=true&width=500&height=75&lines=My+name+is+Nat%C3%A3%2C+but+you+can+call+me+as+Panda;or+NVPanda.%F0%9F%90%BC)](https://git.io/typing-svg)
 
@@ -56,19 +56,21 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="24" height="24" />
 </div>
 <br>
-<<<<<<< HEAD
-
+<div>
 <div align="center">  
 - 👯 I’m looking to collaborate on -
  RPL - RED PANDA LEARNING - Project of Online Platform that teachs technology and Computer Science for everyone.
 </div><br>
+</div>
 
+<div>
 <div align="center">
 - 🤔 I’m looking for help with ...
 
 Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript and CSS.
 </div><br>
-=======
+</div>
+
 <div>
 <div align="center">  
 - 👯 I’m looking to collaborate on -
@@ -84,7 +86,7 @@ Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript a
 Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript and CSS.
 </div> </div>
 <br>
->>>>>>> 8c58f61217893da3e7dbdd170ecc5b62716df3d6
+</div>
 
 <div>
 <div align="center">
@@ -93,8 +95,8 @@ Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript a
 I'm currently monitoring a discord community called Disparat Techno - https://radiotatuapefm.wixsite.com/disparattechno
 </div>
 <br>
-<<<<<<< HEAD
 
+<div>
 <div align="center">
 
 - 😄 Pronouns: ...
@@ -106,16 +108,20 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
  In addition to studying technology and its advances solo, I am also interested in astronomy, space travel and everything that involves James Webb.
 
 </div><br>
-=======
+</div>
+
 <div>	
 <div align="center">- 😄 Pronouns -</div>
   	He / Him / His
 
+</div>
+
+<div>
 <div align="center">- ⚡ Fun fact -</div>
 	In addition to studying technology and its advances solo, I am also interested in astronomy, space travel and everything that involves James Webb.
 </div>
 <br>
->>>>>>> 8c58f61217893da3e7dbdd170ecc5b62716df3d6
+</div>
 
 <!-- Adicionando conteúdos -->
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=fflat-square&logo=Facebook&logoColor=white&link=https://github.com/NVPanda)](https://www.facebook.com/NV.Panda.Pandoala/)
@@ -143,13 +149,16 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvpanda&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=nvpanda&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
+<div>
 <div align="center"> - 🐍 Snake Analysis - </div>
 
 <div align="center">
 
 ![Snake animation](https://github.com/NVPanda/NVPanda/blob/output/github-contribution-grid-snake.svg)
 </div>
-<br><br>  
+<br><br>
+</div>
+
 <div>
 <div align="center">- Enterprises and Programs -</div>
 
@@ -216,7 +225,7 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=fflat-square&logo=heroku&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=fflat-square&logo=oracle&logoColor=white) <br>
 
-<<<<<<< HEAD
+<div align="center">
 - Databases -
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=fflat-square&logo=Firebase&logoColor=white)
@@ -224,10 +233,13 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=fflat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=fflat-square&logo=sqlite&logoColor=white) <br>
 
+</div>
+
+<div>
 - Products -
-=======
+
 <div align="center">- Products -</div>
->>>>>>> 8c58f61217893da3e7dbdd170ecc5b62716df3d6
+
 
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=fflat-square&logo=atom&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=fflat-square&logo=docker&logoColor=white)
@@ -243,6 +255,9 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=fflat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=fflat-square&logo=visual-studio&logoColor=white) <br>
 
+</div>
+
+<div>
 <div align="center">- Operating Systems -</div>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=fflat-square&logo=android&logoColor=white)
@@ -256,8 +271,10 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=fflat-square&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=fflat-square&logo=Windows%2011&logoColor=white) <br>
 
-<<<<<<< HEAD
-- Web Browsers
+</div>
+
+<div>
+<div align="center">- Web Browsers -</div>
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=fflat-square&logo=Brave&logoColor=black)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=fflat-square&logo=Firefox-Browser&logoColor=black)
@@ -266,10 +283,10 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=fflat-square&logo=Tor-Browser&logoColor=black)
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=fflat-square&logo=Vivaldi&logoColor=black) <br>
 
-- Builders -
-=======
+</div>
+
+<div>
 <div align="center">- Builders -</div>
->>>>>>> 8c58f61217893da3e7dbdd170ecc5b62716df3d6
 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=fflat-square&logo=cmake&logoColor=white)
 
@@ -324,9 +341,10 @@ I'm currently monitoring a discord community called Disparat Techno - https://ra
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=fflat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=fflat-square&logo=github&logoColor=white) <br>
 
-<div align="center>- Job -</div>
+<div align="center">- Job -</div>
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=fflat-square&logo=Freelancer&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=fflat-square&logo=HackerRank&logoColor=white)
 
+</div>
 </div>
