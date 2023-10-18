@@ -125,7 +125,9 @@ Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript a
 <table border="1" cellspacing="3" cellpadding="10">
   <tr>
     <br style="border: 0";>
-      <img align="center" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="10%" height="10%"/>
+	  <div align="center">
+      <img src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="10%" height="10%"/>
+	  </div>
     </br>
  <td style="border: 0";>
         🌙 At night studying<td>🐦 Flying around with new technologies</td><td>📺 Watch crash courses for being stronger and wise</td><td>📷 Toggle captures when finished as sucessful</td><td>📬 Send some e-mails when someone needing my help</td>
