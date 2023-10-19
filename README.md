@@ -112,6 +112,6 @@ Social Medias:
 
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=fflat-square&logo=discord&logoColor=white)]()
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=fflat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nv_pandoala)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=fflat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/NV.Panda.Pandoala/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=fflat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/NV.Panda.Pandoala/)
 
  </div>
