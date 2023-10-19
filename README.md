@@ -9,8 +9,8 @@
 	  </div>
     </br>
  <td style="border: 0";>
-        🌙 At night studying<td>🐦 Flying around with new technologies</td><td>📺 Watch crash courses for being stronger and wise</td><td>📷 Toggle captures when finished as sucessful</td><td>📬 Send some e-mails when someone needing my help</td>
-    </td>
+        🌙 At night studying<tr>🐦 Flying around with new technologies</tr><tr>📺 Watch crash courses for being stronger and wise</tr><tr>📷 Toggle captures when finished as sucessful</tr><tr>📬 Send some e-mails when someone needing my help</tr>
+    </tr>
   </tr>
 </table>
 
@@ -109,7 +109,7 @@
 - ⚡ Badges of my social media, web browsers, smartphones, game consoles and enterprises that i love and learn programming with -
 <table>
 <H3 align="center">⭐Social Medias⭐</H3>
-<td>
+<tr>
 
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=fflat-square&logo=discord&logoColor=white)]()
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=fflat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nv_pandoala)
@@ -121,18 +121,18 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=fflat-square&logo=whatsapp&logoColor=white)]()
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=fflat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Chainlenger2)
 
-</td>
+</tr>
 <br>
-<td>
+<tr>
 
 <H3 align="center">🎮Game Consoles🕹️</H3>
 
 ![Playstation](https://img.shields.io/badge/Playstation-003791?style=fflat-square&logo=playstation&logoColor=white)
 ![Playstation 2](https://img.shields.io/badge/Playstation%202-003791?style=fflat-square&logo=playstation-2&logoColor=white)
 
-</td>
+</tr>
 <br>
-<td>
+<tr>
 
 <H3 align="center">🎮Game Enterprises that i follow and love games🕹️</H3>
 
@@ -145,10 +145,10 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=fflat-square&logo=steam&logoColor=white)
 ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=fflat-square&logo=Ubisoft&logoColor=black)
 
-</td>
+</tr>
 <br>
 
-<td>
+<tr>
 
 <H3 align="center">🏫Enterprises that i follow and learn with🏫</H3>
 
@@ -169,11 +169,11 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=fflat-square&logo=WordPress&logoColor=white)
 ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=fflat-square&logo=XDA-Developers&logoColor=white)
  
-</td>
+</tr>
 
 <br>
 
-<td>
+<tr>
 
 <H3 align="center">📕 Databases that i learning on 📖</H3>
 
@@ -182,11 +182,11 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=fflat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=fflat-square&logo=sqlite&logoColor=white)
 
-</td>
+</tr>
 
 <br>
 
-<td>
+<tr>
 
 <H3 align="center">👨‍💻 Softwares that i used and using actually 👨‍💻</H3>
 
@@ -204,11 +204,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=fflat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=fflat-square&logo=visual-studio&logoColor=white)
 
-</td>
+</tr>
 
 <br>
 
-<td>
+<tr>
 
 <H3 align="center">🌐 Web browsers 🌐</H3>
 
@@ -219,11 +219,11 @@
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=fflat-square&logo=Tor-Browser&logoColor=black)
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=fflat-square&logo=Vivaldi&logoColor=black)
 
-</td>
+</tr>
 
 <br>
 
-<td>
+<tr>
 <H3 align="center">🖥️ Operate Systems that i used and using Daily 🖥️</H3>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=fflat-square&logo=android&logoColor=white)
@@ -237,11 +237,11 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=fflat-square&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=fflat-square&logo=Windows%2011&logoColor=white)
 
-</td>
+</tr>
 
 <br>
 
-<td>
+<tr>
 
 <H3 align="center">📱 Smartphones 📲</H3>
 
@@ -252,14 +252,14 @@
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=fflat-square&logo=samsung&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=fflat-square&logo=xiaomi&logoColor=white)
 
-</td>
+</tr>
 
 <br>
 
-<td>
+<tr>
 
 <H3 align="center">📧 Contact me 📧</H3>
 
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=fflat-square&logo=protonmail&logoColor=white)](NVPandaDev@proton.me)
+![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=fflat-square&logo=protonmail&logoColor=white)]()=NVPandaDev@proton.me
 
-</td>
+</tr>
