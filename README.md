@@ -108,9 +108,9 @@
 <div>
 <div align="center">- 😄 Pronouns -</div>
 
-   He / Him / His
+  <div align="center">He / Him / His</div>
 
-- ⚡ Badges of my social media, web browsers, smartphones, game consoles and enterprises that i love and learn programming with -
+<div align="center">- ⚡ Badges of my social media, web browsers, smartphones, game consoles and enterprises that i love and learn programming with -</div>
 
 <table>
 <H3 align="center">⭐Social Medias⭐</H3>
@@ -287,7 +287,8 @@
 <H3 align="center">📧 Contact me 📧</H3>
 <div align="center">
 
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=fflat-square&logo=protonmail&logoColor=white)](https://NVPandaDev@proton.me)
+![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=fflat-square&logo=protonmail&logoColor=white)
+<div align="center">NVPandaDev@proton.me</div>
 
 </div>
 </tr>
