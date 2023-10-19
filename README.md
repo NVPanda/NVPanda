@@ -116,9 +116,9 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=fflat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/NV.Panda.Pandoala/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=fflat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/nat%C3%A3-vitor-vaguel-reis-nvpanda-6140564a)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=fflat-square&logo=telegram&logoColor=white)](https://t.me/NV_Panda)
-![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=fflat-square&logo=Twitch&logoColor=white)]()
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=fflat-square&logo=Twitter&logoColor=white)]()
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=fflat-square&logo=whatsapp&logoColor=white)]()
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=fflat-square&logo=Twitch&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=fflat-square&logo=Twitter&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=fflat-square&logo=whatsapp&logoColor=white)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=fflat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Chainlenger2)
 
 </tr>
@@ -260,6 +260,6 @@
 
 <H3 align="center">📧 Contact me 📧</H3>
 
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=fflat-square&logo=protonmail&logoColor=white=NVPandaDev@proton.me)
+![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=fflat-square&logo=protonmail&logoColor=white)(https://NVPandaDev@proton.me)
 
 </tr>
