@@ -9,7 +9,7 @@
     </tr>
 	<br>
  <td style="border: 0";>
-        🌙 At night studying<tr>🐦 Flying around with new technologies</tr><tr>📺 Watch crash courses for being stronger and wise</tr><tr>📷 Toggle captures when finished as sucessful</tr><tr>📬 Send some e-mails when someone needing my help</tr>
+        🌙 At night studying<td>🐦 Flying around with new technologies</td><td>📺 Watch crash courses for being stronger and wise</td><td>📷 Toggle captures when finished as sucessful</td><td>📬 Send some e-mails when someone needing my help</td>
     </td>
 </table>
 
