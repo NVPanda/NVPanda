@@ -1,5 +1,20 @@
 <H1 align="center">Welcome to NVPanda's Bio Page</H1>
 
+<table border="1" cellspacing="3" cellpadding="10">
+  <tr>
+    <br style="border: 0";>
+	  <div align="center">
+      <img width="400" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="10%" height="10%"/>
+	  </div>
+    </br>
+ <td style="border: 0";>
+        🌙 At night studying<td>🐦 Flying around with new technologies</td><td>📺 Watch crash courses for being stronger and wise</td><td>📷 Toggle captures when finished as sucessful</td><td>📬 Send some e-mails when someone needing my help</td>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=6000&pause=2000&color=F70000&background=FFED0E00&multiline=true&width=500&height=75&lines=My+name+is+Nat%C3%A3%2C+but+you+can+call+me+as+Panda;or+NVPanda.%F0%9F%90%BC)](https://git.io/typing-svg)
 
 <div align="center">
@@ -33,11 +48,11 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 <div align="center">
 - 🔭 I’m currently working on -
 </div>
- <img align="center" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/electron_macos_bigsur_icon_190206.png" width="24" height="24" />
- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="24" height="24" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="24" height="24" />
- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" />
- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="24" height="24" />
+ <img align="center" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/electron_macos_bigsur_icon_190206.png" width="32" height="32" />
+ <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="32" height="32" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
+ <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />
+ <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
 <br><br>
 <div>
 <div align="center">
@@ -45,19 +60,19 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 </div>
 	</div>
 <br>
-<div align="center"><img src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="200" height="74" /></div>
+<div align="center"><img src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="200" height="75" /></div>
 
 <br>
 <div align="center">
  - 🌱 I’m currently learning -
 </div>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" height="24" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" height="24" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24" height="24" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="24" height="24" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="24" height="24" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="24" height="24" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" height="32" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="32" height="32" />
 </div>
 <br>
 
@@ -119,21 +134,6 @@ Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript a
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=fflat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Chainlenger2)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=fflat-square&logo=discord&logoColor=white)]()
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=fflat-square&logo=telegram&logoColor=white)](https://t.me/NV_Panda)
-
-<br>
-
-<table border="1" cellspacing="3" cellpadding="10">
-  <tr>
-    <br style="border: 0";>
-	  <div align="center">
-      <img width="400" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="10%" height="10%"/>
-	  </div>
-    </br>
- <td style="border: 0";>
-        🌙 At night studying<td>🐦 Flying around with new technologies</td><td>📺 Watch crash courses for being stronger and wise</td><td>📷 Toggle captures when finished as sucessful</td><td>📬 Send some e-mails when someone needing my help</td>
-    </td>
-  </tr>
-</table>
 
 <br>
 
