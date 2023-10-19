@@ -104,7 +104,7 @@
 <div align="center">
 - 📫 Monitoring this community as a professor -
 
-[![Disparat Badge](https://img.shields.io/badge/DiparatTechno?style=fflat-square&logo=disparat&logoColor=white))](https://radiotatuapefm.wixsite.com/disparattechno)
+https://radiotatuapefm.wixsite.com/disparattechno
 
 </div>
 <br>
