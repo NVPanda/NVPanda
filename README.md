@@ -103,7 +103,7 @@
 <div align="center">
 - 📫 Monitoring this community as a professor -
 </div>
-<div align-items="center">Disparat Techno - <a>https://radiotatuapefm.wixsite.com/disparattechno</a></div>
+<div align="center">Disparat Techno - [!Disparat](https://radiotatuapefm.wixsite.com/disparattechno)](https://radiotatuapefm.wixsite.com/disparattechno)/div>
 </div>
 
 <br>
