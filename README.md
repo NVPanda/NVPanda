@@ -81,14 +81,12 @@
 <br>
 <div align="center">
  - 🌱 I’m currently learning -
-</div>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="32" height="32" />
 </div>
 <br>
-
 
 <div>
 <div align="center">  
@@ -99,13 +97,11 @@
 
 <br>
 
-<div>
 <div align="center">
 - 📫 Monitoring this community as a professor -
 
 [![Disparat Badge](https://img.shields.io/badge/DiparatTechno?style=fflat-square&logo=disparat&logoColor=white))](https://radiotatuapefm.wixsite.com/disparattechno)
 
-</div>
 </div>
 <br>
 
@@ -115,6 +111,7 @@
    He / Him / His
 
 - ⚡ Badges of my social media, web browsers, smartphones, game consoles and enterprises that i love and learn programming with -
+
 <table>
 <H3 align="center">⭐Social Medias⭐</H3>
 <tr>
