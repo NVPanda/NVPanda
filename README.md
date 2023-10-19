@@ -260,6 +260,6 @@
 
 <H3 align="center">📧 Contact me 📧</H3>
 
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=fflat-square&logo=protonmail&logoColor=white)]()=NVPandaDev@proton.me
+![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=fflat-square&logo=protonmail&logoColor=white=NVPandaDev@proton.me)
 
 </tr>
