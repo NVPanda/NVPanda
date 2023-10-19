@@ -1,17 +1,16 @@
 <H1 align="center">Welcome to NVPanda's Bio Page</H1>
 
-
 <table border="1" cellspacing="3" cellpadding="10">
   <tr>
     <br style="border: 0";>
 	  <div align="center">
       <img width="400" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="10%" height="10%"/>
 	  </div>
-    </br>
+    </tr>
+	<br>
  <td style="border: 0";>
         🌙 At night studying<tr>🐦 Flying around with new technologies</tr><tr>📺 Watch crash courses for being stronger and wise</tr><tr>📷 Toggle captures when finished as sucessful</tr><tr>📬 Send some e-mails when someone needing my help</tr>
     </td>
-  </tr>
 </table>
 
 <br>
