@@ -79,12 +79,16 @@
 <div align="center"><img src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="200" height="75" /></div>
 
 <br>
+
 <div align="center">
  - 🌱 I’m currently learning -
+<br>
+<div align="center">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="32" height="32" />
+</div>
 </div>
 <br>
 
