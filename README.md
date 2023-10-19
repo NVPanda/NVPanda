@@ -113,7 +113,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 <div align="center">- 😄 Pronouns -</div>
 
   <div align="center">He / Him / His</div>
-
+<br>
 <div align="center">- ⚡ Badges of my social media, web browsers, smartphones, game consoles and enterprises that i love and learn programming with -</div>
 
 <table>
