@@ -37,25 +37,25 @@
 
 <div>
 <div align="center">
-- 💬 About me -
+- 💬 Languages that i know basics -
 </div>
 <br>
 
-I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/badge/python-3670A0?style=fflat-square&logo=python&logoColor=ffdd54), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fflat-square&logo=javascript&logoColor=%23F7DF1E), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=fflat-square&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=fflat-square&logo=css3&logoColor=white), ![C](https://img.shields.io/badge/c-%2300599C.svg?style=fflat-square&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=fflat-square&logo=c%2B%2B&logoColor=white), ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=fflat-square&logo=c-sharp&logoColor=white), Delphi  and i love Electronjs.
+![Python](https://img.shields.io/badge/python-3670A0?style=fflat-square&logo=python&logoColor=ffdd54), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fflat-square&logo=javascript&logoColor=%23F7DF1E), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=fflat-square&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=fflat-square&logo=css3&logoColor=white), Delphi  and i love Electronjs.
 
 <br><br>
 
-  I never put a great project here, because i never had the oportunity to work with programming,
-  but i love programming, tecnology and all the things behind these terms.
-
-  If i can make the difference, please, let me do.
+ <div id="languages_to_learn" align="center"> - Languages that i would like to learn along as i live - </div>
+ 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=fflat-square&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=fflat-square&logo=c%2B%2B&logoColor=white), ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=fflat-square&logo=c-sharp&logoColor=white)
+ 
 </div>
 
 <br>
 
 <div>
 <div align="center">
-- 🔭 I’m currently working on -
+- 🔭 Some icons for show -
 </div>
  <img align="center" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/electron_macos_bigsur_icon_190206.png" width="32" height="32" />
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="32" height="32" />
@@ -65,7 +65,7 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 <br><br>
 <div>
 <div align="center">
-- Some solo project using -
+- I made some programs with -
 </div>
 	</div>
 <br>
@@ -75,12 +75,9 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 <div align="center">
  - 🌱 I’m currently learning -
 </div>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" height="32" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="32" height="32" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="32" height="32" />
 </div>
 <br>
@@ -93,44 +90,28 @@ I am a solo learning programmer that enjoyed ![Python](https://img.shields.io/ba
 </div><br>
 </div>
 
+<br>
+
 <div>
 <div align="center">
-- 🤔 I’m looking for help with ...
-
-Learn the right way to code in python, C, C++, C# for games, HTML5, Javascript and CSS.
+- 📫 Monitoring this community as a professor -
 </div>
+<p align="center">Disparat Techno - <a>https://radiotatuapefm.wixsite.com/disparattechno</a></p>
 </div>
 
 <br>
 
 <div>
-<div align="center">
-- 📫 How to reach me -
-</div>
-<p>I'm currently monitoring a discord community called Disparat Techno - <a>https://radiotatuapefm.wixsite.com/disparattechno</a></p>
-</div>
-
-<br>
-
-<div>
-<div align="center">
-
-- 😄 Pronouns -
+<div align="center">- 😄 Pronouns -</div>
 
    He / Him / His
 
-- ⚡ Fun fact -
+- ⚡ Badges of my social media, web browsers, smartphones, game consoles and enterprises that i love and learn programming with -
 
- In addition to studying technology and its advances solo, I am also interested in astronomy, space travel and everything that involves James Webb.
+Social Medias:
 
-</div>
-</div>
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=fflat-square&logo=discord&logoColor=white)]()
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=fflat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nv_pandoala)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=fflat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/NV.Panda.Pandoala/](https://www.facebook.com/NV.Panda.Pandoala/)
 
-<br>
-
-<div>
-<div align="center">- ⚡ Fun fact -</div>
-	In addition to studying technology and its advances solo, I am also interested in astronomy, space travel and everything that involves James Webb.
-</div>
-<br>
-</div>
+ </div>
