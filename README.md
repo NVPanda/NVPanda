@@ -306,4 +306,4 @@ https://radiotatuapefm.wixsite.com/disparattechno
 <br>
 
 <div align="center">⬇️ My Projects ⬇️</div>
-<a link rel="https://github.com/NVPanda?tab=repositories"> 🦾🤖 NVPanda Repository 🦾🤖 </a>
+<a href="https://github.com/NVPanda?tab=repositories" align="center"> 🦾🤖 NVPanda Repository 🦾🤖 </a>
