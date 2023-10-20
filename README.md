@@ -1,6 +1,6 @@
 <H1 align="center">Welcome to NVPanda's Bio Page</H1>
 
-![repository-open-graph-template](https://github.com/NVPanda/NVPanda/assets/59771238/c42c1fd0-ee49-44e3-a9d7-f10e5b187e2c)
+<kbd> <img src="https://github.com/NVPanda/NVPanda/assets/59771238/c42c1fd0-ee49-44e3-a9d7-f10e5b187e2c" border-radius=10% solid black /> </kbd>
 
 
 <br>
