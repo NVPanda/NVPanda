@@ -1,17 +1,7 @@
 <H1 align="center">Welcome to NVPanda's Bio Page</H1>
 
-<table border="1" cellspacing="3" cellpadding="10">
-  <tr>
-    <br style="border: 0";>
-	  <div align="center">
-      <img width="400" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="10%" height="10%"/>
-	  </div>
-    </tr>
-	<br>
- <td style="border: 0";>
-        🌙 At night studying<td>🐦 Flying around with new technologies</td><td>📺 Watch crash courses for being stronger and wise</td><td>📷 Toggle captures when finished as sucessful</td><td>📬 Send some e-mails when someone needing my help</td>
-    </td>
-</table>
+![repository-open-graph-template](https://github.com/NVPanda/NVPanda/assets/59771238/c42c1fd0-ee49-44e3-a9d7-f10e5b187e2c)
+
 
 <br>
 
@@ -296,3 +286,18 @@ https://radiotatuapefm.wixsite.com/disparattechno
 
 </div>
 </tr>
+
+<br>
+
+<table border="1" cellspacing="3" cellpadding="10">
+  <tr>
+    <br style="border: 0";>
+	  <div align="center">
+      <img width="400" src="https://github.com/NVPanda/NVPanda/assets/59771238/ccb299ab-a13d-4d5b-9dc9-ce65ca595875"  width="10%" height="10%"/>
+	  </div>
+    </tr>
+	<br>
+ <td style="border: 0";>
+        🌙 At night studying<td>🐦 Flying around with new technologies</td><td>📺 Watch crash courses for being stronger and wise</td><td>📷 Toggle captures when finished as sucessful</td><td>📬 Send some e-mails when someone needing my help</td>
+    </td>
+</table>
