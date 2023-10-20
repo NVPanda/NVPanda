@@ -2,6 +2,9 @@
 
 <kbd color="red"> <img src="https://github.com/NVPanda/NVPanda/assets/59771238/c42c1fd0-ee49-44e3-a9d7-f10e5b187e2c" /> </kbd>
 
+.navbar-brand kbd {  // Changes background color
+  color: red;             // Changes text color
+}
 
 <br>
 
