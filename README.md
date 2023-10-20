@@ -1,6 +1,6 @@
 <H1 align="center">Welcome to NVPanda's Bio Page</H1>
 
-<kbd><img style="border: .10px solid red" src="https://github.com/NVPanda/NVPanda/assets/59771238/c42c1fd0-ee49-44e3-a9d7-f10e5b187e2c" /></kbd>
+<kbd><img src="https://github.com/NVPanda/NVPanda/assets/59771238/c42c1fd0-ee49-44e3-a9d7-f10e5b187e2c" /></kbd>
 
 <br>
 
