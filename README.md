@@ -32,7 +32,7 @@
 - A minor sparkline about my repositories - 
 <div align="center">
 	
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+[![Sparkline](https://stars.medv.io/NVPanda/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 </div>
 </div>
