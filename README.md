@@ -27,12 +27,23 @@
 | :-: | :-: |
 
 </div>
+<br>
+<div align="center">
+- A minor sparkline about my repositories - 
+<div align="center">
+	
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
+</div>
+</div>
+<br>
 
 <div>
 <div align="center">
 - 💬 Languages that i know basics -
 </div>
 <br>
+	
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=fflat-square&logo=python&logoColor=ffdd54), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=fflat-square&logo=javascript&logoColor=%23F7DF1E), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=fflat-square&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=fflat-square&logo=css3&logoColor=white), Delphi  and i love Electronjs.
@@ -41,7 +52,7 @@
 
 <br><br>
 
- <div id="languages_to_learn" align="center"> - Languages that i would like to learn along as i live - </div>
+ <div align="center"> - Languages that i would like to learn along as i live - </div>
 <div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=fflat-square&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=fflat-square&logo=c%2B%2B&logoColor=white), ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=fflat-square&logo=c-sharp&logoColor=white)
@@ -71,6 +82,8 @@
 	</div>
 <br>
 <div align="center"><img src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="200" height="75" /></div>
+
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 <br>
 
@@ -307,6 +320,16 @@ https://radiotatuapefm.wixsite.com/disparattechno
 </table>
 
 
+<br>
+
+<div align="center">
+- Trophy's Room -
+<div align="center">
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=NVPanda&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+</div>
 <br>
 
 <div align="center">⬇️ My Projects ⬇️</div>
