@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=6000&pause=2000&color=F70000&background=FFED0E00&multiline=true&width=500&height=75&lines=My+name+is+Nat%C3%A3%2C+but+you+can+call+me+as+Panda;or+NVPanda.%F0%9F%90%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A40000&vCenter=true&random=false&width=435&lines=My+name+is+Nat%C3%A3%2C+i+am+a+solo+developer...;You+can+call+me+by+my+nickname+as%3A;Panda+or+NVPanda.;I+currently+contribute+to+text+reviews;on+MDN+for+my+native+language%3A;Brazilian+Portuguese.)](https://git.io/typing-svg)
 
 <div align="center">
 - Coding Status first impression -
