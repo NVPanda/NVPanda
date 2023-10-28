@@ -342,9 +342,9 @@ https://radiotatuapefm.wixsite.com/disparattechno
 	<td>
 		<div align="center"> <H2>Pandas</H2> </div>
 		
-<div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/9c3fee47-c788-46fd-92c1-ae368466cc74" width=100 height=100 /></div>
+<div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/9c3fee47-c788-46fd-92c1-ae368466cc74" width=400 height=400 /></div>
 
-<div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/c8994223-acf6-4901-b655-c0344697da18" width=100 height=100 /></div>
+<div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/c8994223-acf6-4901-b655-c0344697da18" width=400 height=400 /></div>
 	</td>
 </table>
 
@@ -352,7 +352,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 
 <div align="center"> <H6> Human Art Created with AI </H6></div>
 
-<div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/d4ddfa1d-af01-4b75-93e7-df0bf767f911" width=95 height=145 /></div>
+<div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/d4ddfa1d-af01-4b75-93e7-df0bf767f911" width=150 height=200 /></div>
 
 
 <div align="center"><H3>⬇️ My Projects ⬇️</H3></div>
