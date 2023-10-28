@@ -109,7 +109,7 @@
 <br>
 
 <div align="center">
-<H3>- 📫 Monitoring this community as a professor -</H3>
+<div align="center"><H3>- 📫 Monitoring this community as a professor -</H3></div>
 
 https://radiotatuapefm.wixsite.com/disparattechno
 
@@ -117,14 +117,16 @@ https://radiotatuapefm.wixsite.com/disparattechno
 <br>
 
 <div>
-<div align="center><H3>- 😄 Pronouns -</H3></div>
+<div align="center">
+	<H3>- 😄 Pronouns -</H3>
+</div>
 
   <div align="center"><H3>He / Him / His</H3></div>
 <br>
-<div align="center"><H4>- ⚡ Badges of my social media, web browsers, smartphones, game consoles and enterprises that i love and learn programming with -</H4></div>
+<div align="center"><H3>- ⚡ Badges of my social media, web browsers, smartphones, game consoles and enterprises that i love and learn programming with -</H3></div>
 
 <table>
-<div align="center">⭐Social Medias⭐</H3></div>
+<div align="center"><H3>⭐Social Medias⭐</H3></div>
 <tr>
 <div align="center">
 
@@ -198,7 +200,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 
 <tr>
 
-<H3 align="center">📕 Databases that i learning on 📖</H3>
+<div align="center"><H3>📕 Databases that i learning on 📖</H3></div>
 
 <div align="center">
 	
@@ -214,7 +216,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 
 <tr>
 
-<H3 align="center">👨‍💻 Softwares that i used and using actually 👨‍💻</H3>
+<div align="center"><H3>👨‍💻 Softwares that i used and using actually 👨‍💻</H3></div>
 
 <div align="center">
 
@@ -239,7 +241,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 
 <tr>
 
-<H3 align="center">🌐 Web browsers 🌐</H3>
+<div align="center"><H3>🌐 Web browsers 🌐</H3></div>
 
 <div align="center">
 
@@ -256,7 +258,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 <br>
 
 <tr>
-<H3 align="center">🖥️ Operate Systems that i used and using Daily 🖥️</H3>
+<div align="center"><H3>🖥️ Operate Systems that i used and using Daily 🖥️</H3></div>
 
 <div align="center">
 
@@ -278,7 +280,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 
 <tr>
 
-<H3 align="center">📱 Smartphones 📲</H3>
+<div align="center"><H3>📱 Smartphones 📲</H3></div>
 
 <div align="center">
 
@@ -295,7 +297,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 
 <tr>
 
-<H3 align="center">📧 Contact me 📧</H3>
+<div align="center"><H3>📧 Contact me 📧</H3></div>
 <div align="center">
 
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=fflat-square&logo=protonmail&logoColor=white)
@@ -323,7 +325,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 <br>
 
 <div align="center">
-- Trophy's Room -
+<div align="center"><H3>- Trophy's Room -</H3></div>
 <div align="center">
 
 <!-- [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=NVPanda&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
@@ -333,5 +335,5 @@ https://radiotatuapefm.wixsite.com/disparattechno
 </div>
 <br>
 
-<div align="center">⬇️ My Projects ⬇️</div>
+<div align="center"><H3>⬇️ My Projects ⬇️</H3></div>
 <div align="center"><a href="https://github.com/NVPanda?tab=repositories"> 🦾🤖 NVPanda Repository 🦾🤖 </a></div>
