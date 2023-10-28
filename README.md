@@ -357,10 +357,12 @@ https://radiotatuapefm.wixsite.com/disparattechno
 
 <br>
 
-<div align="center"> <H6> Human Art Created with AI </H6></div>
-
-<div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/d4ddfa1d-af01-4b75-93e7-df0bf767f911" width=150 height=200 /></div>
-
+<div align="center"> <H2> Human Art Created with AI </H2></div>
+<table>
+	<td>
+<div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/d4ddfa1d-af01-4b75-93e7-df0bf767f911" width=300 height=400 /></div>
+	</td>
+</table>
 
 <div align="center"><H3>⬇️ My Projects ⬇️</H3></div>
 <div align="center"><a href="https://github.com/NVPanda?tab=repositories"> 🦾🤖 NVPanda Repository 🦾🤖 </a></div>
