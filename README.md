@@ -342,15 +342,9 @@ https://radiotatuapefm.wixsite.com/disparattechno
 	<td>
 		<div align="center"> <H2>Pandas</H2> </div>
 		
-<div align="center">
+<div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/9c3fee47-c788-46fd-92c1-ae368466cc74" width=64 height=64 /></div>
 
-<img src="https://github.com/NVPanda/NVPanda/assets/59771238/9c3fee47-c788-46fd-92c1-ae368466cc74" width=32 height=32 />
-</div>
-
-<div aling="center">
-	
-<img src="https://github.com/NVPanda/NVPanda/assets/59771238/c8994223-acf6-4901-b655-c0344697da18" width=32 height=32 />
-</div>
+<div aling="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/c8994223-acf6-4901-b655-c0344697da18" width=64 height=64 /></div>
 	</td>
 </table>
 
