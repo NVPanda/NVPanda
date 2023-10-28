@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-- Coding Status first impression -
+<H3>- Coding Status first impression -</H3>
 </div>
 <div align="center">
 
@@ -40,7 +40,7 @@
 
 <div>
 <div align="center">
-- 💬 Languages that i know basics -
+<H3>- 💬 Languages that i know basics -</H3>
 </div>
 <br>
 	
@@ -52,7 +52,7 @@
 
 <br><br>
 
- <div align="center"> - Languages that i would like to learn along as i live - </div>
+ <div align="center"> <H3>- Languages that i would like to learn along as i live -</H3> </div>
 <div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=fflat-square&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=fflat-square&logo=c%2B%2B&logoColor=white), ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=fflat-square&logo=c-sharp&logoColor=white)
@@ -64,7 +64,7 @@
 
 <div>
 <div align="center">
-- 🔭 Some icons for show -
+<H3>- 🔭 Some icons for show -</H3>
 </div>
 <div align="center">
 <img align="center" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/electron_macos_bigsur_icon_190206.png" width="32" height="32" />
@@ -77,7 +77,7 @@
 <br><br>
 <div>
 <div align="center">
-- I made some programs with -
+<H3>- I made some programs with -</H3>
 </div>
 	</div>
 <br>
@@ -88,7 +88,7 @@
 <br>
 
 <div align="center">
- - 🌱 I’m currently learning -
+ <H3>- 🌱 I’m currently learning -</H3>
 <br>
 <div align="center">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="32" height="32" />
@@ -101,7 +101,7 @@
 
 <div>
 <div align="center">  
-- 👯 I’m looking to collaborate on -
+<H3> 👯 I’m looking to collaborate on -</H3>
  RPL - RED PANDA LEARNING - Project of Online Platform that teachs technology and Computer Science for everyone.
 </div><br>
 </div>
@@ -109,7 +109,7 @@
 <br>
 
 <div align="center">
-- 📫 Monitoring this community as a professor -
+<H3>- 📫 Monitoring this community as a professor -</H3>
 
 https://radiotatuapefm.wixsite.com/disparattechno
 
@@ -117,14 +117,14 @@ https://radiotatuapefm.wixsite.com/disparattechno
 <br>
 
 <div>
-<div align="center">- 😄 Pronouns -</div>
+<div align="center><H3>- 😄 Pronouns -</H3></div>
 
-  <div align="center">He / Him / His</div>
+  <div align="center"><H3>He / Him / His</H3></div>
 <br>
-<div align="center">- ⚡ Badges of my social media, web browsers, smartphones, game consoles and enterprises that i love and learn programming with -</div>
+<div align="center"><H4>- ⚡ Badges of my social media, web browsers, smartphones, game consoles and enterprises that i love and learn programming with -</H4></div>
 
 <table>
-<H3 align="center">⭐Social Medias⭐</H3>
+<div align="center">⭐Social Medias⭐</H3></div>
 <tr>
 <div align="center">
 
@@ -142,7 +142,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 <br>
 <tr>
 
-<H3 align="center">🎮Game Consoles🕹️</H3>
+<div align="center"><H3>🎮Game Consoles🕹️</H3></div>
 <div align="center">
 	
 ![Playstation](https://img.shields.io/badge/Playstation-003791?style=fflat-square&logo=playstation&logoColor=white)
@@ -153,7 +153,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 <br>
 <tr>
 
-<H3 align="center">🎮Game Enterprises that i follow and love games🕹️</H3>
+<div align="center"><H3>🎮Game Enterprises that i follow and love games🕹️</H3></div>
 <div align="center">
 
 ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=fflat-square&logo=battle.net&logoColor=white)
@@ -171,7 +171,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 
 <tr>
 
-<H3 align="center">🏫Enterprises that i follow and learn with🏫</H3>
+<div align="center"><H3>🏫Enterprises that i follow and learn with🏫</H3></div>
 <div align="center">
 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=fflat-square&logo=digitalOcean&logoColor=white)
