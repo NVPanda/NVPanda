@@ -335,5 +335,13 @@ https://radiotatuapefm.wixsite.com/disparattechno
 </div>
 <br>
 
+<div align="center"> <H6>- Arts generated with AI -</H6> </div>
+
+<table>
+	<td>
+		<div align="justified"> Pandas </div>
+	</td>
+</table>
+
 <div align="center"><H3>⬇️ My Projects ⬇️</H3></div>
 <div align="center"><a href="https://github.com/NVPanda?tab=repositories"> 🦾🤖 NVPanda Repository 🦾🤖 </a></div>
