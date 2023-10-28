@@ -326,7 +326,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 - Trophy's Room -
 <div align="center">
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=NVPanda&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=NVPanda&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=NVPanda&theme=darkhub&row=1&column=9)
 
 </div>
