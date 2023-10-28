@@ -360,11 +360,11 @@ https://radiotatuapefm.wixsite.com/disparattechno
 <div align="center"> <H2> Human Art Created with AI </H2></div>
 <table>
 	<td>
-<div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/d4ddfa1d-af01-4b75-93e7-df0bf767f911" width=300 height=400 /></div>
+<div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/d4ddfa1d-af01-4b75-93e7-df0bf767f911" width=300 height=400 alt="NVPanda" title="Asian NVPanda" /></div>
 	</td>
 
  <td>
-<div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/2ec9b285-6357-4796-af42-58fe19ba16de" placeholder="NVPanda_bymyname_nvpanda_astrid_nielsen_luis_caretta_and_max" width=300 height=400 /></div>
+<div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/2ec9b285-6357-4796-af42-58fe19ba16de" alt="NVPanda_bymyname_nvpanda_astrid_nielsen_luis_caretta_and_max" width=300 height=400  title="Disparat Techno Discord Group"/></div>
  </td>
 </table>
 
