@@ -346,13 +346,13 @@ https://radiotatuapefm.wixsite.com/disparattechno
 
 <div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/c8994223-acf6-4901-b655-c0344697da18" width=400 height=400 /></div>
 	</td>
- <tr>
+ <td>
 	 <td>
 		 <div align="center"><H2>Models & shirts</H2></div>
 		 <div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/6d23633b-4152-48fc-814b-dfe5afbc8a2a" width=400 height=400 /></div>
 		 <div align="center"><img src="https://github.com/NVPanda/NVPanda/assets/59771238/ba1973e1-c6bb-4186-82fd-2eb36bdd972c" width=400 height=400 /></div>
 	 </td>
- </tr>
+ </td>
 </table>
 
 <br>
