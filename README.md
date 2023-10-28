@@ -340,8 +340,18 @@ https://radiotatuapefm.wixsite.com/disparattechno
 <table>
 	<td>
 		<div align="justified"> Pandas </div>
+		
+![Astrid_Nielsen__NVPanda_captadoror_de_recursos_discord_64063248-7858-4831-b294-ec32b61d19a2](https://github.com/NVPanda/NVPanda/assets/59771238/9c3fee47-c788-46fd-92c1-ae368466cc74)
+![a3cf1f33-1134-4b26-815e-a76c9688b847](https://github.com/NVPanda/NVPanda/assets/59771238/c8994223-acf6-4901-b655-c0344697da18)
 	</td>
 </table>
+
+<br>
+
+<div align="center"> <H6> Human Art Created with AI </H6></div>
+
+<img src="https://github.com/NVPanda/NVPanda/assets/59771238/d4ddfa1d-af01-4b75-93e7-df0bf767f911" />
+
 
 <div align="center"><H3>⬇️ My Projects ⬇️</H3></div>
 <div align="center"><a href="https://github.com/NVPanda?tab=repositories"> 🦾🤖 NVPanda Repository 🦾🤖 </a></div>
