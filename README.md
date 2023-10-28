@@ -82,9 +82,10 @@
 	</div>
 <br>
 <div align="center"><img src="https://electronjs.org/images/electron-logo.svg" aling-item="bottom" width="200" height="75" /></div>
-
+<div align="center">
+	
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-
+</div>
 <br>
 
 <div align="center">
