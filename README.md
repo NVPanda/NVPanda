@@ -1,5 +1,12 @@
 <H1 align="center">Welcome to NVPanda's Bio Page</H1>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A40000&vCenter=true&random=false&width=435&lines=My+name+is+Nat%C3%A3%2C+I'm+a+solo+developer...;you+can+call+me+by+my+nickname+like%3A;+Panda+or+NVPanda.;Currently%2C+I+contribute+to+text+reviews;on+MDN+for+my+native+language%3A;Brazilian+Portuguese.)](https://git.io/typing-svg)
+
+</div>
+<br>
+
 <kbd><img src="https://github.com/NVPanda/NVPanda/assets/59771238/c42c1fd0-ee49-44e3-a9d7-f10e5b187e2c" /></kbd>
 
 <br>
@@ -30,6 +37,7 @@
 <br>
 <div align="center">
 - A minor sparkline about my repositories - 
+<figure><embed src="https://wakatime.com/share/@NVPanda/7cfcffbc-6c86-4a70-ad0c-46baaac97194.svg"></embed></figure>
 <div align="center">
 	
 [![Sparkline](https://stars.medv.io/NVPanda/badges.svg)](https://stars.medv.io/Naereen/badges)
