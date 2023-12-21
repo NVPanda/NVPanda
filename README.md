@@ -31,13 +31,8 @@
 <div align="center">
 - A minor sparkline about my repositories - 
 <!--START_SECTION:waka-->
- <figure><embed src="https://wakatime.com/share/@NVPanda/7cfcffbc-6c86-4a70-ad0c-46baaac97194.svg"></embed></figure>
+ <embed src="https://wakatime.com/share/@NVPanda/7cfcffbc-6c86-4a70-ad0c-46baaac97194.svg"></embed>
 <!--END_SECTION:waka-->
-<div align="center">
-	
-
-
-</div>
 </div>
 <br>
 
