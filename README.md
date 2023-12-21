@@ -38,9 +38,10 @@
 <div align="center">
 - A minor sparkline about my repositories - 
 <figure><embed src="https://wakatime.com/share/@NVPanda/7cfcffbc-6c86-4a70-ad0c-46baaac97194.svg"></embed></figure>
+![Sparkline](https://stars.medv.io/NVPanda/badges.svg)](https://stars.medv.io/Naereen/badges) | ![](https://stars.medv.io/share/@NVPanda/7cfcffbc-6c86-4a70-ad0c-46baaac97194)
 <div align="center">
 	
-[![Sparkline](https://stars.medv.io/NVPanda/badges.svg)](https://stars.medv.io/Naereen/badges)
+
 
 </div>
 </div>
