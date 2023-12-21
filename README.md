@@ -29,12 +29,11 @@
 </div>
 <br>
 <div align="center">
-- A minor sparkline about my repositories - 
+- Charts about my repositories - 
 <!--START_SECTION:waka-->
- <img
-  src="https://github.com/NVPanda/NVPanda/blob/readme.md/images/stat.svg"
-  alt="Alternative Text"
-/>
+ 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NVPanda)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--END_SECTION:waka-->
 </div>
 <br>
