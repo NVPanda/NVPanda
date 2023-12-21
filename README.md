@@ -31,7 +31,10 @@
 <div align="center">
 - A minor sparkline about my repositories - 
 <!--START_SECTION:waka-->
- <embed src="https://wakatime.com/share/@NVPanda/7cfcffbc-6c86-4a70-ad0c-46baaac97194.svg"></embed>
+ <img
+  src="https://github.com/NVPanda/NVPanda/blob/readme.md/images/stat.svg"
+  alt="Alternative Text"
+/>
 <!--END_SECTION:waka-->
 </div>
 <br>
