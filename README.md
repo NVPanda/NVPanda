@@ -301,7 +301,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 <details>
   <summary>Spoiler warning</summary>
 
-* Comportamento esperado
+* Comportamento esperado <br>
 Esperamos os seguintes comportamentos de todos os Mozillians:
 
 Ser respeitoso
