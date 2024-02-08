@@ -301,16 +301,16 @@ https://radiotatuapefm.wixsite.com/disparattechno
 <details>
   <summary>Spoiler warning</summary>
 
-* Comportamento esperado <br>
+Comportamento esperado<br>
 Esperamos os seguintes comportamentos de todos os Mozillians:
 
-Ser respeitoso
+Ser respeitoso<br>
 Valorize ideias, estilos e pontos de vista de cada um. Nem sempre concordaremos, mas isso não justifica comportamentos desrespeitosos. Esteja aberto a diferentes possibilidades e poder estar errado. Seja respeitoso em todas as interações e comunicações, especialmente ao debater méritos de diferentes opções. Esteja ciente do impacto das suas ações e de como interações intensas podem afetar pessoas. Seja direto, construtivo e positivo. Assuma a responsabilidade pela repercussão dos seus atos e por seus erros. Se alguém disser que foi prejudicado por suas palavras ou ações, ouça com atenção, peça desculpas sinceramente e mude seu comportamento no futuro.
 
-Ser direto, mas profissional
+Ser direto, mas profissional<br>
 É provável que ocorram discussões sobre casos em que uma crítica é respeitosa e quando ela não for. Precisamos conseguir falar diretamente quando discordamos e quando pensamos que precisamos melhorar. Não podemos ocultar a dura realidade. Fazê-la respeitosamente é difícil, fazê-la quando outros não estejam atentos é mais difícil, e ouvir esses comentários quando eles se referem a nós podem ser ainda mais difíceis. Precisamos ser honestos, diretos e respeitosos.
 
-Ser inclusivo
+Ser inclusivo<br>
 Procure perspectivas diversas. A diversidade de pontos de vista e de pessoas em equipes estimula a inovação, mesmo que nem sempre seja confortável. Encoraje todas as vozes. Ajude novas perspectivas a ser ouvidas e ouça atentamente. Ao se encontrar dominando uma discussão, é especialmente importante se segurar e incentivar outras vozes a participar. Esteja ciente de quanto tempo é ocupado por membros dominantes do grupo. Forneça formas alternativas de contribuição ou participação quando possível.
 
 Seja inclusivo a todos em uma interação, respeitando e facilitando a participação das pessoas, independente delas:
@@ -323,25 +323,25 @@ Estiverem em um fuso horário diferente
 Enfrentarem outros desafios para participar
 Pense em como você pode facilitar maneiras alternativas de contribuir ou participar. Se você estiver dominando uma discussão, dê um passo atrás. Abra caminho para outras vozes e escute atentamente.
 
-Compreender diferentes perspectivas
+Compreender diferentes perspectivas<br>
 Nosso objetivo não é “vencer” cada divergência ou discussão. É mais produtivo estar aberto a ideias que melhoram as nossas próprias ideias. Esforce-se para ser um exemplo de pensamento inclusivo. “Vencemos” quando as diferentes perspectivas enriquecem e fortalecem o nosso trabalho.
 
-Valorizar e se adaptar a nossas semelhanças e diferenças
+Valorizar e se adaptar a nossas semelhanças e diferenças<br>
 Os Mozillians vêm de muitas culturas e têm experiências diversas. As diferenças culturais podem abranger tudo, desde práticas religiosas oficiais até hábitos pessoais e roupas. Seja respeitoso com as pessoas que adotam diferentes práticas culturais, atitudes e crenças. Trabalhe para eliminar seus próprios preconceitos, tendências e práticas discriminatórias. Pense nas necessidades dos outros do ponto de vista deles. Refira-se às pessoas do modo que elas preferem (incluindo pronomes) e o tom de voz apropriado. Respeite o direito das pessoas à privacidade e confidencialidade. Esteja aberto para aprender e informar, bem como procurar informar-se. Não é realista esperar que os Mozillians conheçam as práticas culturais de todos os grupos étnicos e culturais, mas todos precisam reconhecer que a cultura nativa de cada um é apenas parte das interações positivas.
 
-Liderar pelo exemplo
+Liderar pelo exemplo<br>
 Ao combinar suas ações com suas palavras, você se torna uma pessoa que os outros querem seguir. Suas ações influenciam os outros a se comportarem e responderem com resultados esperados pela nossa organização. Projeta sua comunidade e seu trabalho para inclusão. Seja responsável e responsabilize-se pelos comportamentos inclusivos. Tome decisões que tenham como base a melhor contribuição possível para a missão da Mozilla.
 
-Comportamentos que não devem ser tolerados
+Comportamentos que não devem ser tolerados<br>
 Os seguintes comportamentos são considerados inaceitáveis, de acordo com estas diretrizes.
 
-Violência e ameaças de violência
+Violência e ameaças de violência<br>
 Violência e ameaças de violência não são aceitáveis, sejam online ou offline. Isso inclui incitação à violência contra qualquer indivíduo, inclusive incentivar a pessoa a agredir a si mesma. Isso também inclui publicar ou ameaçar publicar informações de identificação pessoal de outras pessoas ("doxxing") online.
 
-Ataques pessoais
+Ataques pessoais<br>
 Conflitos inevitavelmente surgem, mas a frustração nunca deverá transformar-se em um ataque pessoal. Não é bom insultar, humilhar ou menosprezar os outros. Atacar alguém por suas opiniões, crenças e ideias não é aceitável. É importante falar diretamente quando discordamos e quando pensamos que precisamos melhorar. No entanto, essas discussões precisam ser conduzidas de maneira respeitosa e profissional, mantendo o foco no assunto em questão.
 
-Linguagem pejorativa
+Linguagem pejorativa<br>
 Linguagem prejudicial ou ofensiva relacionada a:
 
 experiências anteriores
@@ -363,10 +363,10 @@ localização geográfica
 outros atributos
 não é aceitável. Isso inclui intencionalmente referir-se a uma pessoa por um gênero ao qual ela não se identifica e/ou questionar a legitimidade da identidade de gênero de um indivíduo. Se você não tiver certeza se uma palavra for pejorativa, não a use. Isso também inclui discriminação recorrente sutil e/ou indireta; quando solicitado a parar, pare o comportamento em questão.
 
-Contato físico ou atenção sexual inoportunos
+Contato físico ou atenção sexual inoportunos<br>
 A atenção sexual e o contato físico indesejados não são aceitáveis. Isso inclui piadas, imagens e comentários sexualizados em interações, comunicações ou materiais de apresentação, toques e apalpações inadequados, bem como avanços sexuais. Isso inclui tocar uma pessoa sem permissão, incluindo áreas sensíveis, como cabelo, a barriga de mulheres grávidas, dispositivo de mobilidade (cadeira de rodas, scooter etc.) ou tatuagens. Isso também inclui bloquear fisicamente ou intimidar uma pessoa. Contato físico ou contato físico simulado (por exemplo, emojis como "beijo") sem consentimento não são aceitáveis. Isso inclui o compartilhamento e a distribuição de imagens ou texto sexualizados.
 
-Comportamento perturbador
+Comportamento perturbador<br>
 A interrupção constante de eventos, fóruns ou reuniões, incluindo palestras e apresentações, não será tolerada. Isso inclui:
 
 Cortar a fala do palestrante ou interrompê-lo.
@@ -376,7 +376,7 @@ Influenciar ações em grupo que causam hostilidade na sessão.
 Influenciar comportamento inaceitável
 Trataremos os atos que influenciam ou orientam essas atividades da mesma maneira que tratamos as atividades em si, e as mesmas consequências serão aplicadas.
 
-Consequências do comportamento inaceitável
+Consequências do comportamento inaceitável<br>
 O mau comportamento de qualquer Mozillian, incluindo àqueles com autoridade de tomada de decisão, não será tolerado. Os esforços intencionais de excluir pessoas (exceto como parte de uma consequência das diretrizes ou outras ações oficiais) das atividades da Mozilla não são aceitáveis e serão tratados adequadamente.
 
 Os relatos de assédio/discriminação serão pronta e cuidadosamente investigados pelas pessoas responsáveis pela segurança do espaço, evento ou atividade. Serão tomadas medidas adequadas para resolver esta situação.
@@ -385,7 +385,7 @@ Os relatos de assédio/discriminação serão pronta e cuidadosamente investigad
 
 A equipe da Mozilla será responsabilizada, além destas diretrizes, perante as Políticas contra assédio/discriminação da equipe da Mozilla [1]. Ao violar estas diretrizes, a equipe da Mozilla poderá estar sujeita a outras consequências, como ações disciplinares, incluindo a rescisão do contrato de trabalho. Para contratantes ou fornecedores, a violação destas diretrizes podem afetar a continuidade ou renovação do contrato.
 
-Além disso, qualquer participante que abuse do processo de denúncia será considerado como violador destas diretrizes e estará sujeito às mesmas consequências. As denúncias falsas, especialmente para retaliar ou excluir, não serão aceitas ou toleradas. 
+Além disso, qualquer participante que abuse do processo de denúncia será considerado como violador destas diretrizes e estará sujeito às mesmas consequências. As denúncias falsas, especialmente para retaliar ou excluir, não serão aceitas ou toleradas.
 
 </details>
 
