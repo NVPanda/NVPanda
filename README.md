@@ -298,7 +298,7 @@ https://radiotatuapefm.wixsite.com/disparattechno
 
 > Mozilla's guideline for a better personal conduct
 
-||Comportamento esperado
+|| * Comportamento esperado
 Esperamos os seguintes comportamentos de todos os Mozillians:
 
 Ser respeitoso
@@ -382,7 +382,7 @@ Os relatos de assédio/discriminação serão pronta e cuidadosamente investigad
 
 A equipe da Mozilla será responsabilizada, além destas diretrizes, perante as Políticas contra assédio/discriminação da equipe da Mozilla [1]. Ao violar estas diretrizes, a equipe da Mozilla poderá estar sujeita a outras consequências, como ações disciplinares, incluindo a rescisão do contrato de trabalho. Para contratantes ou fornecedores, a violação destas diretrizes podem afetar a continuidade ou renovação do contrato.
 
-Além disso, qualquer participante que abuse do processo de denúncia será considerado como violador destas diretrizes e estará sujeito às mesmas consequências. As denúncias falsas, especialmente para retaliar ou excluir, não serão aceitas ou toleradas.||
+Além disso, qualquer participante que abuse do processo de denúncia será considerado como violador destas diretrizes e estará sujeito às mesmas consequências. As denúncias falsas, especialmente para retaliar ou excluir, não serão aceitas ou toleradas. ||
 
 > For better community interation i recommend this attitude like it previous said from Mozilla's.
 
