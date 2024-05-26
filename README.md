@@ -99,6 +99,16 @@
 </div>
 </div>
 <br>
+<hr>
+
+<div align="center">
+<a href="ChromeOS">
+  <picture>
+    <source srcset="https://chromeos.dev/badges/pt-BR/dark.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://chromeos.dev/badges/pt-BR/secondary.svg" alt="Entusiasta do Chromebook & Chrome OS"/>
+  </picture>
+</a>
+</div>            
 
 <div>
 <div align="center">  
