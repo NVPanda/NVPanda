@@ -102,10 +102,10 @@
 <hr>
 
 <div align="center">
-<a href="ChromeOS">
+<a href="https://chromeos.dev">
   <picture>
     <source srcset="https://chromeos.dev/badges/pt-BR/dark.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://chromeos.dev/badges/pt-BR/secondary.svg" alt="Entusiasta do Chromebook & Chrome OS"/>
+    <img src="https://chromeos.dev/badges/pt-BR/secondary.svg" alt="Entusiasta do Chromebook e Chrome OS"/>
   </picture>
 </a>
 </div>            
