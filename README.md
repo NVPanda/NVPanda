@@ -104,10 +104,9 @@
 <hr>
 
 <div align="center">
-<a href="https://chromeos.dev">
+<a href="https://chromeos.dev/">
   <picture>
-    <source srcset="https://chromeos.dev/badges/pt-BR/dark.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://chromeos.dev/badges/pt-BR/secondary.svg" alt="Entusiasta do Chromebook e Chrome OS"/>
+    <img src="https://chromeos.dev/badges/en/secondary.svg" alt="Add to Chromebook"/>
   </picture>
 </a>
 </div>            
@@ -124,7 +123,7 @@
 <div align="center">
 <div align="center"><H3>- 📫 Monitoring this community as a professor -</H3></div>
 
-https://radiotatuapefm.wixsite.com/disparattechno
+ <a link rel="https://radiotatuapefm.wixsite.com/disparattechno" >⚡Disparat Techno⚡</a>
 
 </div>
 <br>
