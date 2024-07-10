@@ -18,6 +18,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvpanda)](https://github.com/nvpanda/github-readme-stats)
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvpanda&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nvpanda&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nvpanda&theme=nord_dark) |
 | :-: | :-: | :-: |
