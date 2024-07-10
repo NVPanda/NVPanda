@@ -313,91 +313,85 @@ https://radiotatuapefm.wixsite.com/disparattechno
 <details>
   <summary>Spoiler warning</summary>
 
-* Comportamento esperado<br>
-Esperamos os seguintes comportamentos de todos os Mozillians:
+Expected behavior
+We expect the following behaviors from all Mozillians:
 
-* Ser respeitoso<br>
-Valorize ideias, estilos e pontos de vista de cada um. Nem sempre concordaremos, mas isso não justifica comportamentos desrespeitosos. Esteja aberto a diferentes possibilidades e poder estar errado. Seja respeitoso em todas as interações e comunicações, especialmente ao debater méritos de diferentes opções. Esteja ciente do impacto das suas ações e de como interações intensas podem afetar pessoas. Seja direto, construtivo e positivo. Assuma a responsabilidade pela repercussão dos seus atos e por seus erros. Se alguém disser que foi prejudicado por suas palavras ou ações, ouça com atenção, peça desculpas sinceramente e mude seu comportamento no futuro.
+Be respectful
+Value each other’s ideas, styles and points of view. We won't always agree, but that doesn't justify disrespectful behavior. Be open to different possibilities and being wrong. Be respectful in all interactions and communications, especially when debating the merits of different options. Be aware of the impact of your actions and how intense interactions can affect people. Be direct, constructive and positive. Take responsibility for the repercussions of your actions and your mistakes. If someone tells you they were hurt by your words or actions, listen carefully, apologize sincerely, and change your behavior in the future.
 
-* Ser direto, mas profissional<br>
-É provável que ocorram discussões sobre casos em que uma crítica é respeitosa e quando ela não for. Precisamos conseguir falar diretamente quando discordamos e quando pensamos que precisamos melhorar. Não podemos ocultar a dura realidade. Fazê-la respeitosamente é difícil, fazê-la quando outros não estejam atentos é mais difícil, e ouvir esses comentários quando eles se referem a nós podem ser ainda mais difíceis. Precisamos ser honestos, diretos e respeitosos.
+Be direct but professional
+Discussions are likely to occur about when criticism is respectful and when it is not. We need to be able to speak directly when we disagree and when we think we need to improve. We cannot hide the harsh reality. Doing it respectfully is difficult, doing it when others are not paying attention is more difficult, and hearing those comments when they refer to us can be even more difficult. We need to be honest, direct and respectful.
 
-* Ser inclusivo<br>
-Procure perspectivas diversas. A diversidade de pontos de vista e de pessoas em equipes estimula a inovação, mesmo que nem sempre seja confortável. Encoraje todas as vozes. Ajude novas perspectivas a ser ouvidas e ouça atentamente. Ao se encontrar dominando uma discussão, é especialmente importante se segurar e incentivar outras vozes a participar. Esteja ciente de quanto tempo é ocupado por membros dominantes do grupo. Forneça formas alternativas de contribuição ou participação quando possível.
+Be inclusive
+Seek diverse perspectives. Diversity of points of view and people in teams encourages innovation, even if it is not always comfortable. Encourage all voices. Help new perspectives be heard and listen intently. When you find yourself dominating a discussion, it's especially important to hold back and encourage other voices to participate. Be aware of how much time is taken up by dominant group members. Provide alternative ways to contribute or participate when possible.
 
-Seja inclusivo a todos em uma interação, respeitando e facilitando a participação das pessoas, independente delas:
+Be inclusive of everyone in an interaction, respecting and facilitating the participation of people, regardless of them:
 
-Estarem remotas (por vídeo ou celular)
-Serem falantes de idioma não nativo
-Virem de uma cultura diferente
-Usarem pronomes diferentes de "ele" ou "ela"
-Estiverem em um fuso horário diferente
-Enfrentarem outros desafios para participar
-Pense em como você pode facilitar maneiras alternativas de contribuir ou participar. Se você estiver dominando uma discussão, dê um passo atrás. Abra caminho para outras vozes e escute atentamente.
+Be remote (via video or cell phone) Be a non-native language speaker Come from a different culture Use pronouns other than "he" or "she" Are in a different time zone Face other challenges to participating Think about how you can facilitate alternative ways to participate contribute or participate. If you find yourself dominating a discussion, take a step back. Make way for other voices and listen carefully.
 
-* Compreender diferentes perspectivas<br>
-Nosso objetivo não é “vencer” cada divergência ou discussão. É mais produtivo estar aberto a ideias que melhoram as nossas próprias ideias. Esforce-se para ser um exemplo de pensamento inclusivo. “Vencemos” quando as diferentes perspectivas enriquecem e fortalecem o nosso trabalho.
+Understand different perspectives
+Our goal is not to “win” every disagreement or argument. It's more productive to be open to ideas that improve our own ideas. Strive to be an example of inclusive thinking. “We win” when different perspectives enrich and strengthen our work.
 
-* Valorizar e se adaptar a nossas semelhanças e diferenças<br>
-Os Mozillians vêm de muitas culturas e têm experiências diversas. As diferenças culturais podem abranger tudo, desde práticas religiosas oficiais até hábitos pessoais e roupas. Seja respeitoso com as pessoas que adotam diferentes práticas culturais, atitudes e crenças. Trabalhe para eliminar seus próprios preconceitos, tendências e práticas discriminatórias. Pense nas necessidades dos outros do ponto de vista deles. Refira-se às pessoas do modo que elas preferem (incluindo pronomes) e o tom de voz apropriado. Respeite o direito das pessoas à privacidade e confidencialidade. Esteja aberto para aprender e informar, bem como procurar informar-se. Não é realista esperar que os Mozillians conheçam as práticas culturais de todos os grupos étnicos e culturais, mas todos precisam reconhecer que a cultura nativa de cada um é apenas parte das interações positivas.
+Value and adapt to our similarities and differences
+Mozillians come from many cultures and have diverse experiences. Cultural differences can encompass everything from official religious practices to personal habits and clothing. Be respectful of people who adopt different cultural practices, attitudes and beliefs. Work to eliminate your own biases, biases, and discriminatory practices. Think about the needs of others from their point of view. Refer to people in the way they prefer (including pronouns) and in the appropriate tone of voice. Respect people's right to privacy and confidentiality. Be open to learning and informing, as well as seeking to inform yourself. It is unrealistic to expect Mozillians to know the cultural practices of all ethnic and cultural groups, but everyone needs to recognize that one's native culture is only part of positive interactions.
 
-* Liderar pelo exemplo<br>
-Ao combinar suas ações com suas palavras, você se torna uma pessoa que os outros querem seguir. Suas ações influenciam os outros a se comportarem e responderem com resultados esperados pela nossa organização. Projeta sua comunidade e seu trabalho para inclusão. Seja responsável e responsabilize-se pelos comportamentos inclusivos. Tome decisões que tenham como base a melhor contribuição possível para a missão da Mozilla.
+Lead by example
+By matching your actions with your words, you become a person others want to follow. Your actions influence others to behave and respond with results expected by our organization. Design your community and your work for inclusion. Be responsible and hold yourself accountable for inclusive behaviors. Make decisions that are based on the best possible contribution to Mozilla's mission.
 
-* Comportamentos que não devem ser tolerados<br>
-Os seguintes comportamentos são considerados inaceitáveis, de acordo com estas diretrizes.
+Behaviors that should not be tolerated
+The following behaviors are considered unacceptable according to these guidelines.
 
-* Violência e ameaças de violência<br>
-Violência e ameaças de violência não são aceitáveis, sejam online ou offline. Isso inclui incitação à violência contra qualquer indivíduo, inclusive incentivar a pessoa a agredir a si mesma. Isso também inclui publicar ou ameaçar publicar informações de identificação pessoal de outras pessoas ("doxxing") online.
+Violence and threats of violence
+Violence and threats of violence are not acceptable, whether online or offline. This includes inciting violence against any individual, including encouraging a person to harm themselves. This also includes posting or threatening to post other people's personally identifiable information ("doxxing") online.
 
-* Ataques pessoais<br>
-Conflitos inevitavelmente surgem, mas a frustração nunca deverá transformar-se em um ataque pessoal. Não é bom insultar, humilhar ou menosprezar os outros. Atacar alguém por suas opiniões, crenças e ideias não é aceitável. É importante falar diretamente quando discordamos e quando pensamos que precisamos melhorar. No entanto, essas discussões precisam ser conduzidas de maneira respeitosa e profissional, mantendo o foco no assunto em questão.
+Personal attacks
+Conflicts inevitably arise, but frustration should never turn into a personal attack. It is not good to insult, humiliate or belittle others. Attacking someone for their opinions, beliefs and ideas is not acceptable. It's important to speak up directly when we disagree and when we think we need to improve. However, these discussions need to be conducted in a respectful and professional manner, while remaining focused on the issue at hand.
 
-* Linguagem pejorativa<br>
-Linguagem prejudicial ou ofensiva relacionada a:
+* Pejorative language<br>
+Harmful or offensive language related to:
 
-experiências anteriores
-situação familiar
-gênero
-identidade ou expressão de gênero
-estado civil
-sexo
-orientação sexual
-língua materna
-idade
-capacidade
-raça e/ou etnia
-classe social
-nacionalidade
-status socioeconômico
-religião
-localização geográfica
-outros atributos
-não é aceitável. Isso inclui intencionalmente referir-se a uma pessoa por um gênero ao qual ela não se identifica e/ou questionar a legitimidade da identidade de gênero de um indivíduo. Se você não tiver certeza se uma palavra for pejorativa, não a use. Isso também inclui discriminação recorrente sutil e/ou indireta; quando solicitado a parar, pare o comportamento em questão.
+previous experiences
+family situation
+gender
+gender identity or expression
+marital status
+sex
+sexual orientation
+mother tongue
+age
+capacity
+race and/or ethnicity
+social class
+nationality
+socioeconomic status
+religion
+geographic location
+other attributes
+is not acceptable. This includes intentionally referring to a person by a gender they do not identify with and/or questioning the legitimacy of an individual's gender identity. If you're not sure whether a word is pejorative, don't use it. This also includes recurring subtle and/or indirect discrimination; when asked to stop, stop the behavior in question.
 
-* Contato físico ou atenção sexual inoportunos<br>
-A atenção sexual e o contato físico indesejados não são aceitáveis. Isso inclui piadas, imagens e comentários sexualizados em interações, comunicações ou materiais de apresentação, toques e apalpações inadequados, bem como avanços sexuais. Isso inclui tocar uma pessoa sem permissão, incluindo áreas sensíveis, como cabelo, a barriga de mulheres grávidas, dispositivo de mobilidade (cadeira de rodas, scooter etc.) ou tatuagens. Isso também inclui bloquear fisicamente ou intimidar uma pessoa. Contato físico ou contato físico simulado (por exemplo, emojis como "beijo") sem consentimento não são aceitáveis. Isso inclui o compartilhamento e a distribuição de imagens ou texto sexualizados.
+* Untimely physical contact or sexual attention<br>
+Unwanted sexual attention and physical contact are not acceptable. This includes sexualized jokes, images and comments in interactions, communications or presentation materials, inappropriate touching and groping, as well as sexual advances. This includes touching a person without permission, including sensitive areas such as hair, a pregnant woman's belly, mobility device (wheelchair, scooter, etc.), or tattoos. This also includes physically blocking or intimidating a person. Physical contact or simulated physical contact (e.g., emojis like "kiss") without consent is not acceptable. This includes sharing and distributing sexualized images or text.
 
-* Comportamento perturbador<br>
-A interrupção constante de eventos, fóruns ou reuniões, incluindo palestras e apresentações, não será tolerada. Isso inclui:
+* Disruptive behavior<br>
+Constant interruption of events, forums or meetings, including lectures and presentations, will not be tolerated. That includes:
 
-* Cortar a fala do palestrante ou interrompê-lo.
-Tomar bebidas alcoólicas ou usar drogas recreativas em excesso ou pressionar outros a fazê-lo.
-Fazer comentários pejorativos sobre aqueles que se abstêm de bebidas alcoólicas ou outras substâncias, pressionar as pessoas para que bebam, falar sobre sua abstinência ou preferências para os outros ou pressioná-las para que bebam fisicamente ou através de zombaria.
-Influenciar ações em grupo que causam hostilidade na sessão.
-Influenciar comportamento inaceitável
-Trataremos os atos que influenciam ou orientam essas atividades da mesma maneira que tratamos as atividades em si, e as mesmas consequências serão aplicadas.
+* Cut off the speaker's speech or interrupt him.
+Drinking alcohol or using recreational drugs excessively or pressuring others to do so.
+Making derogatory comments about those who abstain from alcohol or other substances, pressuring people to drink, talking about their abstinence or preferences to others, or pressuring them to drink physically or through mockery.
+Influence group actions that cause hostility in the session.
+Influence unacceptable behavior
+We will treat acts that influence or guide these activities in the same way as we treat the activities themselves, and the same consequences will apply.
 
-* Consequências do comportamento inaceitável<br>
-O mau comportamento de qualquer Mozillian, incluindo àqueles com autoridade de tomada de decisão, não será tolerado. Os esforços intencionais de excluir pessoas (exceto como parte de uma consequência das diretrizes ou outras ações oficiais) das atividades da Mozilla não são aceitáveis e serão tratados adequadamente.
+* Consequences of unacceptable behavior<br>
+Bad behavior from any Mozillian, including those with decision-making authority, will not be tolerated. Intentional efforts to exclude people (except as part of a consequence of guidelines or other official actions) from Mozilla activities are not acceptable and will be handled appropriately.
 
-Os relatos de assédio/discriminação serão pronta e cuidadosamente investigados pelas pessoas responsáveis pela segurança do espaço, evento ou atividade. Serão tomadas medidas adequadas para resolver esta situação.
+Reports of harassment/discrimination will be promptly and carefully investigated by those responsible for the security of the space, event or activity. Appropriate measures will be taken to resolve this situation.
 
-É esperado que, ao receber uma solicitação para interromper um comportamento inaceitável, isso seja feito imediatamente. Violação destas diretrizes pode resultar em receber solicitação de sair de um evento ou espaço online, temporariamente ou durante todo o evento, ou ser banido definitivamente de participação em espaços ou futuras atividades e eventos.
+It is expected that upon receipt of a request to stop unacceptable behavior, it will be done immediately. Violation of these guidelines may result in being asked to leave an online event or space, temporarily or for the entire event, or being permanently banned from participating in spaces or future activities and events.
 
-A equipe da Mozilla será responsabilizada, além destas diretrizes, perante as Políticas contra assédio/discriminação da equipe da Mozilla [1]. Ao violar estas diretrizes, a equipe da Mozilla poderá estar sujeita a outras consequências, como ações disciplinares, incluindo a rescisão do contrato de trabalho. Para contratantes ou fornecedores, a violação destas diretrizes podem afetar a continuidade ou renovação do contrato.
+Mozilla staff will be held accountable, in addition to these guidelines, to the Mozilla Staff Anti-Harassment/Discrimination Policies [1]. By violating these guidelines, Mozilla staff may be subject to other consequences, such as disciplinary action, including termination of employment. For contractors or suppliers, violation of these guidelines may affect the continuity or renewal of the contract.
 
-Além disso, qualquer participante que abuse do processo de denúncia será considerado como violador destas diretrizes e estará sujeito às mesmas consequências. As denúncias falsas, especialmente para retaliar ou excluir, não serão aceitas ou toleradas.
+Additionally, any participant who abuses the reporting process will be considered in violation of these guidelines and will be subject to the same consequences. False reports, especially to retaliate or exclude, will not be accepted or tolerated.
 
 </details>
 
