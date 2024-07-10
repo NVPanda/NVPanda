@@ -123,7 +123,7 @@
 <div align="center">
 <div align="center"><H3>- 📫 Monitoring this community as a professor -</H3></div>
 
- <a link rel="https://radiotatuapefm.wixsite.com/disparattechno" >⚡Disparat Techno⚡</a>
+ <a href="https://radiotatuapefm.wixsite.com/disparattechno" >⚡Disparat Techno⚡</a>
 
 </div>
 <br>
