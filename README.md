@@ -7,7 +7,7 @@
 </div>
 <br>
 <div align=center>
-<kbd><img src="https://github.com/NVPanda/NVPanda/assets/59771238/c42c1fd0-ee49-44e3-a9d7-f10e5b187e2c" width=440 height=320 /></kbd>
+<kbd><img src="https://github.com/user-attachments/assets/ef958b7d-7e74-462f-ba62-10fb5204800f" width=440 height=320 /></kbd>
 </div>
 <br>
 
