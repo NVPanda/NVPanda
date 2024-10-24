@@ -125,6 +125,15 @@
 
  <a href="https://radiotatuapefm.wixsite.com/disparattechno" >⚡Disparat Techno⚡</a>
 
+
+<div>
+	<a href="https://discord.gg/PTukYWy9">Criador da Doomsday School - A escola do Futuro</a>
+</div>
+	
+ <div>
+<a href="https://discord.gg/ukFJ6t2X" >Co-Fundador da DMIT - Dungeon Masters IT Discord Community</a>
+ </div>
+
 </div>
 <br>
 
