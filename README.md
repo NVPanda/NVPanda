@@ -1,5 +1,7 @@
 <H1 align="center">Welcome to NVPanda's Bio Page</H1>
-
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=600C14&height=120&section=header" />
+</a>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A40000&vCenter=true&random=false&width=435&lines=My+name+is+Nat%C3%A3%2C+I'm+a+solo+developer...;you+can+call+me+by+my+nickname+like%3A;+Panda+or+NVPanda.;Currently%2C+I+contribute+to+text+reviews;on+MDN+for+my+native+language%3A;Brazilian+Portuguese.)](https://git.io/typing-svg)
@@ -488,6 +490,11 @@ Additionally, any participant who abuses the reporting process will be considere
 
 <div align=right> <h3>Document Created with: </h3>
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=600C14&height=120&section=footer" />
+</a>
 
 </div>
