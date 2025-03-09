@@ -9,7 +9,7 @@
 </div>
 <br>
 <div align=center>
-<kbd><img src="https://github.com/user-attachments/assets/ef958b7d-7e74-462f-ba62-10fb5204800f" width=500 height=400 /></kbd>
+<kbd><img src="https://github.com/user-attachments/assets/ef958b7d-7e74-462f-ba62-10fb5204800f" width=800 height=400 /></kbd>
 </div>
 <br>
 
