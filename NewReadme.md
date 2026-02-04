@@ -60,8 +60,9 @@ Scalable Bot Infrastructure	Bots com antifraude, cache de mídia, controle de pe
 
 🐍 Contribution Graph (Visual Impact)
 <div align="center">
+<!-- SNAKER ANIMATION -->
 
-<img src="https://raw.githubusercontent.com/NVPanda/NVPanda/output/github-contribution-grid-snake-dark.svg"/>
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
