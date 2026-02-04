@@ -19,8 +19,9 @@
 <div align="center">
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark) OLD -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)](https://github.com/nvpanda/github-readme-stats) OLD 2 --> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)](https://github.com/nvpanda/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=transparent_private=true&theme=onedark)](https://github.com/nvpanda/github-readme-stats)
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvpanda&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nvpanda&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nvpanda&theme=nord_dark) |
