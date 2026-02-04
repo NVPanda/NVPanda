@@ -33,13 +33,13 @@
 </div>
 <br>
 <div align="center">
-- Charts about my repositories - 
-<!--START_SECTION:waka-->
+- Charts about my repositories -
+ <!--START_SECTION:waka-->
  
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NVPanda)](https://github.com/NVPanda/github-readme-stats)
+ <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NVPanda)](https://github.com/NVPanda/github-readme-stats) -->
 
-<!--END_SECTION:waka-->
-</div>
+ <!--END_SECTION:waka-->
+</div> WAKATIME HAS CHANGED NEEDS REVIEW
 <br>
 
 <div>
