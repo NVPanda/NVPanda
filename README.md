@@ -438,11 +438,11 @@ Additionally, any participant who abuses the reporting process will be considere
 <br>
 
 <div align="center">
-<div align="center"><H3>- Trophy's Room -</H3></div>
+<div align="center"><H3>- Trophy's Room - NEED REVIEW </H3></div>
 <div align="center">
 
 <!-- [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=NVPanda&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
-![trophy](https://github-profile-trophy.vercel.app/?username=NVPanda&theme=darkhub&row=1&column=9)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=NVPanda&theme=darkhub&row=1&column=9)
 
 - name: Generate trophy card
   uses: soulteary/github-profile-trophy-action@v1.0.0
@@ -452,7 +452,7 @@ Additionally, any participant who abuses the reporting process will be considere
     token: ${{ secrets.GITHUB_TOKEN }}
 
 </div>
-</div>
+</div> -->
 <br>
 
 <div align="center"> <H6>- Arts generated with AI -</H6> </div>
