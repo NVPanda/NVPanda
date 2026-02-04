@@ -444,6 +444,13 @@ Additionally, any participant who abuses the reporting process will be considere
 <!-- [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=NVPanda&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=NVPanda&theme=darkhub&row=1&column=9)
 
+- name: Generate trophy card
+  uses: soulteary/github-profile-trophy-action@v1.0.0
+  with:
+    options: 'username=${{ github.repository_owner }}&theme=gruvbox&no-bg=true&no-frame=true'
+    path: .github/assets/trophy.svg
+    token: ${{ secrets.GITHUB_TOKEN }}
+
 </div>
 </div>
 <br>
