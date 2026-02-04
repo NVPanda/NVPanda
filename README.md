@@ -14,24 +14,107 @@
 <br>
 
 <div align="center">
-<H3>- Coding Status first impression -</H3>
+  <h3>⚡ Coding Status · First Impression ⚡</h3>
 </div>
+
 <div align="center">
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark) OLD -->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&count_private=true&theme=onedark)](https://github.com/nvpanda/github-readme-stats) OLD 2 --> 
-[![NVPanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&theme=transparent_private=true)](https://github.com/NVPanda/github-readme-stats)
+<!-- ===== GitHub Main Stats (Auto Dark / Light) ===== -->
+<a href="https://github.com/NVPanda/github-readme-stats">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&include_all_commits=true&count_private=true&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true"
+      alt="NVPanda GitHub Stats"
+    />
+  </picture>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvpanda)
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvpanda&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nvpanda&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nvpanda&theme=nord_dark) |
-| :-: | :-: | :-: |
+</a>
 
+<br><br>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvpanda&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=nvpanda&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+<!-- ===== Summary Cards (Cyber Dark / Clean Light) ===== -->
+<table>
+  <tr>
+    <td align="center">
+      <picture>
+        <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvpanda&theme=github_dark" media="(prefers-color-scheme: dark)" />
+        <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvpanda&theme=github" media="(prefers-color-scheme: light)" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvpanda" />
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nvpanda&hide=Html&theme=github_dark" media="(prefers-color-scheme: dark)" />
+        <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nvpanda&hide=Html&theme=github" media="(prefers-color-scheme: light)" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nvpanda&hide=Html" />
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nvpanda&theme=github_dark" media="(prefers-color-scheme: dark)" />
+        <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nvpanda&theme=github" media="(prefers-color-scheme: light)" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nvpanda" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ===== Profile Details + Streak ===== -->
+<table>
+  <tr>
+    <td align="center">
+      <picture>
+        <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvpanda&theme=github_dark" media="(prefers-color-scheme: dark)" />
+        <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvpanda&theme=github" media="(prefers-color-scheme: light)" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvpanda" />
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source
+          srcset="https://github-readme-streak-stats.herokuapp.com/?user=nvpanda&theme=neon-dark&hide_border=true"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-streak-stats.herokuapp.com/?user=nvpanda&theme=default&hide_border=true"
+          media="(prefers-color-scheme: light)"
+        />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvpanda&hide_border=true" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 </div>
 <br>
+<div align="center">
+<!-- SNAKER ANIMATION -->
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+<br>
+
+<!-- NEON BARS -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=2"/>
+</div>
+
+<br>
+
 <div align="center">
 - Charts about my repositories -
  <!--START_SECTION:waka-->
