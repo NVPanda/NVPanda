@@ -119,7 +119,7 @@
  <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NVPanda)](https://github.com/NVPanda/github-readme-stats) -->
 
  <!--END_SECTION:waka-->
-</div> WAKATIME HAS CHANGED NEEDS REVIEW
+</div>
 <br>
 
 <div>
