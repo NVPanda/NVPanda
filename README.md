@@ -29,10 +29,8 @@
       srcset="https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&include_all_commits=true&count_private=true&theme=default"
       media="(prefers-color-scheme: light)"
     />
-    <img
-      src="https://avatars.githubusercontent.com/u/59771238?v=4&size=64"
-      alt="NVPanda GitHub Stats"
-    />
+	
+![NVPanda Github Stats](https://avatars.githubusercontent.com/u/59771238?v=4&size=128) 
   </picture>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvpanda)
