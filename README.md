@@ -30,7 +30,7 @@
       media="(prefers-color-scheme: light)"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true"
+      src="https://avatars.githubusercontent.com/u/59771238?v=4&size=64"
       alt="NVPanda GitHub Stats"
     />
   </picture>
