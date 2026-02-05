@@ -33,7 +33,7 @@
 ![NVPanda Github Stats](https://avatars.githubusercontent.com/u/59771238?v=4&size=128) 
   </picture>
 
-![NVPanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&commits_year=2025)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true)
 
 </a>
 
