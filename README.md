@@ -116,7 +116,7 @@
 - Charts about my repositories -
  <!--START_SECTION:waka-->
  
-[![NVPanda WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NVPanda)](https://github.com/NVPanda/github-readme-stats)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=NVPanda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  <!--END_SECTION:waka-->
 </div>
