@@ -33,7 +33,7 @@
 ![NVPanda Github Stats](https://avatars.githubusercontent.com/u/59771238?v=4&size=128) 
   </picture>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvpanda)
+![NVPanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&commits_year=2025)
 
 </a>
 
