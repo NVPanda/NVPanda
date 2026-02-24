@@ -95,7 +95,9 @@
 <div align="center">
   - Charts about my repositories -
   <!--START_SECTION:waka-->
-  [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=NVPanda&layout=compact&range=all_time)](https://wakatime.com/@NVPanda)
+	
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=NVPanda&layout=compact&range=all_time)](https://wakatime.com/@NVPanda)
+  
   <!--END_SECTION:waka-->
 </div>
 <br>
