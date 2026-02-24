@@ -19,26 +19,22 @@
 
 <div align="center">
 
-<!-- ===== GitHub Main Stats (Auto Dark / Light) ===== -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&include_all_commits=true&count_private=true&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-	
-![NVPanda Github Stats](https://avatars.githubusercontent.com/u/59771238?v=4&size=128) 
-  </picture>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default" 
+  />
+  <img 
+    alt="NVPanda GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default" 
+  />
+</picture>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NVPanda&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true)
-
-</a>
-
-<br><br>
-
+</div>
 <!-- ===== Summary Cards (Cyber Dark / Clean Light) ===== -->
 <table>
   <tr>
