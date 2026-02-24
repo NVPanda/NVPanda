@@ -19,22 +19,6 @@
 
 <div align="center">
 
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" 
-  />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default" 
-  />
-  <img 
-    alt="NVPanda GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=NVPanda&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default" 
-  />
-</picture>
-
-</div>
 <!-- ===== Summary Cards (Cyber Dark / Clean Light) ===== -->
 <table>
   <tr>
