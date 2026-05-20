@@ -4,7 +4,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+educational+ecosystems+through+technology;Open+Source+Contributor+•+Platform+Engineer;Electron+•+AI+Tooling+•+Developer+Experience;Communities+are+infrastructure."/>
+<div>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+education+ecosystems+through+technology;Contributor+to+AI+Tooling+and+Developer+Experience;Communities+are+infrastructure;Open+Source+Enthusiast)
+
+</div>
 
 <br><br>
 
