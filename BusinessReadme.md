@@ -1,11 +1,10 @@
-```md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e293b,100:020617&text=NVPanda&fontAlignY=40&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20•%20OSS%20Contributor%20•%20Community%20Builder&descAlignY=62&descSize=18&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+educational+ecosystems+through+technology;Open+Source+Contributor+%E2%80%A2+Platform+Engineer;Electron+%E2%80%A2+AI+Tooling+%E2%80%A2+Developer+Experience;Communities+are+infrastructure." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+educational+ecosystems+through+technology;Open+Source+Contributor+•+Platform+Engineer;Electron+•+AI+Tooling+•+Developer+Experience;Communities+are+infrastructure."/>
 
 <br><br>
 
@@ -19,7 +18,48 @@ I build educational ecosystems, collaborative developer communities and experime
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=nvpanda&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=nvpanda&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/NVPanda?style=for-the-badge&color=38BDF8"/>
+
+<img src="https://img.shields.io/github/stars/NVPanda?style=for-the-badge&color=38BDF8"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧭 Navigation
+
+[🚀 Projects](#-featured-projects) •
+[⚡ Focus](#-current-focus) •
+[📊 Metrics](#-engineering-metrics) •
+[🌐 Community](#-open-source--community) •
+[📬 Contact](#-contact)
+
+</div>
+
+---
+
+<div align="center">
+
+# 🛰️ Live Status
+
+```txt
+🟢 Currently Building:
+→ AI Educational Interfaces
+
+🌍 Looking For:
+→ OSS Collaborations
+→ Educational Partnerships
+
+⚡ Available For:
+→ Community Projects
+→ Platform Engineering
+```
+
+<img src="https://img.shields.io/badge/Status-Actively%20Building-0ea5e9?style=for-the-badge"/>
 
 </div>
 
@@ -65,7 +105,7 @@ Build accessible technology ecosystems for everyone.
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -114,12 +154,11 @@ Build accessible technology ecosystems for everyone.
 
 ## 🐼 RPL
 
-### Red Panda Learning
+<a href="https://github.com/NVPanda">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NVPanda&repo=RPL&theme=tokyonight&hide_border=true"/>
+</a>
 
 Educational ecosystem focused on technology accessibility and collaborative learning.
-
-### Stack
-Electron • Python • JavaScript
 
 </td>
 
@@ -127,10 +166,11 @@ Electron • Python • JavaScript
 
 ## 🏫 Doomsday School
 
-Future-oriented educational initiative and technology community.
+<a href="https://github.com/NVPanda">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NVPanda&repo=DoomsdaySchool&theme=tokyonight&hide_border=true"/>
+</a>
 
-### Focus
-AI • Communities • Learning
+Future-oriented educational initiative and technology community.
 
 </td>
 
@@ -138,10 +178,11 @@ AI • Communities • Learning
 
 ## 🌐 DMIT
 
-Collaborative IT & OSS community designed for learning and mentorship.
+<a href="https://github.com/NVPanda">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NVPanda&repo=DMIT&theme=tokyonight&hide_border=true"/>
+</a>
 
-### Goals
-Mentorship • Networking • OSS
+Collaborative IT & OSS community designed for learning and mentorship.
 
 </td>
 
@@ -193,7 +234,7 @@ Mentorship • Networking • OSS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,electron,nodejs,docker,linux,git,github,vscode,mysql,postgresql,firebase&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,electron,nodejs,docker,linux,git,github,vscode,mysql,postgresql,firebase&theme=dark&perline=8"/>
 
 </div>
 
@@ -209,7 +250,7 @@ Mentorship • Networking • OSS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,go,rust,kubernetes,aws&perline=7" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,go,rust,kubernetes,aws&theme=dark&perline=7"/>
 
 </div>
 
@@ -235,7 +276,7 @@ Mentorship • Networking • OSS
 
 <div align="center">
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvpanda&theme=tokyonight" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nvpanda&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -243,11 +284,63 @@ Mentorship • Networking • OSS
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nvpanda&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nvpanda&theme=tokyonight"/>
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvpanda&theme=tokyonight"/>
 
 </div>
+
+---
+
+<div align="center">
+
+# 🧩 Interactive Sections
+
+</div>
+
+<br>
+
+<details>
+<summary><strong>🧠 Current Research Topics</strong></summary>
+
+<br>
+
+- AI-assisted learning systems
+- Knowledge graph ecosystems
+- Human-centered AI
+- Accessibility-first engineering
+- Open educational infrastructure
+- Experimental platform UX
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>⚙️ Developer Interests</strong></summary>
+
+<br>
+
+- Platform Engineering
+- Electron Ecosystems
+- Linux Infrastructure
+- DevEx
+- AI Tooling
+- OSS Communities
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>🌌 Long-term Vision</strong></summary>
+
+<br>
+
+Build a fully open educational ecosystem where:
+- learning is collaborative
+- technology is accessible
+- communities become infrastructure
+
+</details>
 
 ---
 
@@ -261,7 +354,23 @@ Mentorship • Networking • OSS
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎧 Currently Vibing
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w4pw6x4h3s2n5z2j2j2j2j2&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
 
 </div>
 
@@ -311,73 +420,6 @@ Developer communities
 
 <div align="center">
 
-# 🧪 AI & Experimental Research
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">🤖 AI educational interfaces</td>
-<td align="center">📚 Adaptive learning systems</td>
-</tr>
-
-<tr>
-<td align="center">🧠 Human-centered AI</td>
-<td align="center">🌐 Knowledge graph systems</td>
-</tr>
-
-<tr>
-<td align="center">⚡ AI-assisted education</td>
-<td align="center">🖥️ Experimental UX platforms</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# 🎨 Creative Identity
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="32%" src="https://github.com/NVPanda/NVPanda/assets/59771238/9c3fee47-c788-46fd-92c1-ae368466cc74"/>
-
-<img width="32%" src="https://github.com/NVPanda/NVPanda/assets/59771238/c8994223-acf6-4901-b655-c0344697da18"/>
-
-<img width="32%" src="https://github.com/NVPanda/NVPanda/assets/59771238/a9fa032d-bc9a-43a5-a98c-be566023368f"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🖥️ Ecosystem & Platforms
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows,android,docker,github,gitlab,pycharm,notion,figma&perline=6"/>
-
-</div>
-
----
-
-<div align="center">
-
 # 📈 Dynamic Activity
 
 </div>
@@ -391,6 +433,20 @@ Developer communities
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<div align="center">
+
+# 📝 Sign the Guestbook
+
+Leave a message or connect with the ecosystem.
+
+<a href="https://github.com/NVPanda/NVPanda/issues/new">
+<img src="https://img.shields.io/badge/Sign%20Guestbook-111827?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
@@ -450,89 +506,6 @@ Developer communities
 
 <div align="center">
 
-# 🏆 Community Principles
-
-</div>
-
-<br>
-
-<div align="center">
-
-<details>
-
-<summary><strong>Open Community & Collaboration Principles</strong></summary>
-
-<br>
-
-Inspired by Mozilla's open-source culture and inclusive collaboration principles.
-
-### Core Values
-
-Respect • Inclusiveness • Open Collaboration • Accessibility • Knowledge Sharing
-
-<br>
-
-### Mission
-
-Build educational and technological communities where people can learn, contribute and evolve together.
-
-</details>
-
-</div>
-
----
-
-<div align="center">
-
-# 🧠 Recruiter Snapshot
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-
-### 👨‍💻 Profile
-
-Founder Engineer  
-Senior / Staff Potential
-
-</td>
-
-<td align="center">
-
-### ⚡ Strengths
-
-OSS Culture  
-Platform Thinking  
-Educational Technology
-
-</td>
-
-<td align="center">
-
-### 🧩 Traits
-
-Systems Thinking  
-Continuous Learning  
-Human-centered Technology
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 # 🚀 Future Goals
 
 </div>
@@ -573,4 +546,3 @@ Human-centered Technology
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0f172a,50:1e293b,100:020617"/>
 
 </div>
-```
