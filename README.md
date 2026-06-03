@@ -365,19 +365,20 @@ Build a fully open educational ecosystem where:
 ---
 
 <div align="center">
-
+<!--
 # 🎧 Currently Vibing
-
+-->
+  <!--
 </div>
-
+--
 <br>
-
+--
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w4pw6x4h3s2n5z2j2j2j2j2&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
+<!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=31w4pw6x4h3s2n5z2j2j2j2j2&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
 
 </div>
-
+-->
 ---
 
 <div align="center">
